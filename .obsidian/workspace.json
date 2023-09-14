@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "6e14715e415b0325",
+    "type": "split",
+    "children": [
+      {
+        "id": "db48aa1374eca1c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "939c0e34cb04317d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "601999141093d9fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ab635fdd9a570e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ac8523097fea27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e884f63b49cf6be0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7d4c5cbd1ec08b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2e846f367dd8430",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfca2e8a48593e0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5d6498ca03dfaf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ff114d89d07f541",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d129a2a18f72e4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4078d45bda508b56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e5d6498ca03dfaf3",
+  "lastOpenFiles": [
+    "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
+    "Terraform/padrao_terraform_azure_linux/Main Azure Linux.md",
+    "AWS/Criando uma secret key na AWS.md",
+    "AWS/Criando um par de chaves AWS.md"
+  ]
+}
