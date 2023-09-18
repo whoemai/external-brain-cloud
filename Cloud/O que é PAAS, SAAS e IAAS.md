@@ -47,6 +47,28 @@ Software as a Service (SaaS) é um modelo de serviço em nuvem no qual aplicativ
 
 - **Modelo de Assinatura:** Geralmente, os serviços SaaS são oferecidos sob um modelo de assinatura mensal ou anual.
 
-## Conclusão
+# Exemplos de cada serviço
 
-Em resumo, PaaS, SaaS e IaaS são modelos de serviço em nuvem que oferecem soluções para diferentes necessidades de negócios e desenvolvimento. IaaS fornece recursos de infraestrutura virtualizada, PaaS oferece uma plataforma de desenvolvimento e implantação de aplicativos, enquanto SaaS fornece aplicativos prontos para uso. A escolha entre esses modelos depende das necessidades específicas de sua organização ou projeto. Entender essas opções é fundamental para tomar decisões informadas sobre a adoção de tecnologias em nuvem.
+**IaaS (Infrastructure as a Service)**
+
+Exemplo: Amazon Web Services (AWS) EC2
+
+- **Descrição:** AWS EC2 é um serviço de IaaS que permite criar e gerenciar máquinas virtuais (VMs) na nuvem. Você pode escolher o sistema operacional, a capacidade de CPU, a quantidade de RAM e outras configurações para suas VMs.
+
+- **Uso:** Suponha que você esteja desenvolvendo uma aplicação web e precise de servidores virtuais escaláveis. Com o AWS EC2, você pode provisionar VMs sob demanda, escalá-las conforme a carga de tráfego aumenta e configurá-las de acordo com suas necessidades específicas.
+
+**PaaS (Platform as a Service)**
+
+Exemplo: Heroku
+
+- **Descrição:** Heroku é uma plataforma de PaaS que facilita o desenvolvimento, implantação e escalabilidade de aplicativos web. Ele oferece ambientes de desenvolvimento, bancos de dados gerenciados e serviços prontos para uso.
+
+- **Uso:** Digamos que você esteja criando um aplicativo web em Python e deseje se concentrar no código e na lógica de negócios, em vez de configurar servidores. Com o Heroku, você pode fazer o deploy do seu aplicativo com facilidade, aproveitar bancos de dados gerenciados e escalar conforme necessário, tudo sem se preocupar com a infraestrutura.
+
+**SaaS (Software as a Service)**
+
+Exemplo: Microsoft Office 365
+
+- **Descrição:** O Microsoft Office 365 é um serviço de SaaS que fornece acesso a aplicativos de produtividade, como Word, Excel, PowerPoint e Outlook, diretamente pela Internet. Os usuários podem usar esses aplicativos sem precisar instalá-los localmente.
+
+- **Uso:** Imagine que você trabalhe em um ambiente empresarial e precise criar documentos, planilhas e apresentações. Com o Office 365, você pode acessar essas ferramentas a partir de qualquer dispositivo conectado à Internet, colaborar com colegas em tempo real e armazenar seus arquivos na nuvem, facilitando o acesso e a colaboração.
