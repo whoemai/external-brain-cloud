@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "939c0e34cb04317d",
+            "id": "79e6bf9637af4743",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "939c0e34cb04317d",
+  "active": "79e6bf9637af4743",
   "lastOpenFiles": [
+    "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Main Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Variables Azure Linux .tfvars.md",
@@ -157,7 +150,6 @@
     "Terraform/padrao_terraform_azure_windows/Provider Azure Windows.md",
     "Terraform/padrao_terraform_azure_windows/Variables Azure  Windows.md",
     "AWS/Criando uma secret key na AWS.md",
-    "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Variáveis Terraform Linux.md",
     "AWS/Criando um par de chaves AWS.md"
   ]
