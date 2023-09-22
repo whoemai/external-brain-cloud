@@ -11,8 +11,15 @@
             "id": "ed4ce7de3d9b8457",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Cloud/Load balancer.canvas",
+                "viewState": {
+                  "x": 283.5151692486393,
+                  "y": -62.64700221006807,
+                  "zoom": 3.3306690738754696e-16
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud/Load balancer.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud/Load balancer.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cloud/Load balancer.canvas"
+              }
             }
           }
         ]
@@ -141,6 +152,7 @@
   "active": "ed4ce7de3d9b8457",
   "lastOpenFiles": [
     "Cloud/O que é PAAS, SAAS e IAAS.md",
+    "Cloud/Load balancer.canvas",
     "Cloud",
     "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Main Azure Linux.md",
