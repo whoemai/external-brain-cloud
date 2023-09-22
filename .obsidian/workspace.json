@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db48aa1374eca1c3",
+        "id": "1ed8c7038077a33b",
         "type": "tabs",
         "children": [
           {
-            "id": "79e6bf9637af4743",
+            "id": "ed4ce7de3d9b8457",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,7 +138,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "79e6bf9637af4743",
+  "active": "ed4ce7de3d9b8457",
   "lastOpenFiles": [
     "Cloud/O que é PAAS, SAAS e IAAS.md",
     "Cloud",
