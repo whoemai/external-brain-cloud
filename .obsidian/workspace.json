@@ -11,8 +11,12 @@
             "id": "ed4ce7de3d9b8457",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Criando um par de chaves AWS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS/Criando um par de chaves AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS/Criando um par de chaves AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS/Criando um par de chaves AWS.md"
+              }
             }
           }
         ]
@@ -139,7 +146,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e884f63b49cf6be0",
+  "active": "ed4ce7de3d9b8457",
   "lastOpenFiles": [
     "Cloud/Load balancer.canvas",
     "AWS/Vinculando par de chaves SSH.md",
