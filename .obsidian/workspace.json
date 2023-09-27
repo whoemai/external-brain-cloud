@@ -11,15 +11,8 @@
             "id": "ed4ce7de3d9b8457",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Cloud/Load balancer.canvas",
-                "viewState": {
-                  "x": 283.5151692486393,
-                  "y": -62.64700221006807,
-                  "zoom": 3.3306690738754696e-16
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -51,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Azure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Load balancer.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Load balancer.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cloud/Load balancer.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,22 +139,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e7ac8523097fea27",
+  "active": "e884f63b49cf6be0",
   "lastOpenFiles": [
-    "Cloud/O que é PAAS, SAAS e IAAS.md",
     "Cloud/Load balancer.canvas",
+    "AWS/Vinculando par de chaves SSH.md",
+    "AWS/Criando um par de chaves AWS.md",
+    "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
+    "Cloud/O que é PAAS, SAAS e IAAS.md",
     "Cloud",
     "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Main Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Variables Azure Linux .tfvars.md",
-    "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
     "Terraform/padrao_terraform_azure_windows/Backend Azure Windows.md",
     "Terraform/padrao_terraform_azure_windows/Main Azure Windows.md",
     "Terraform/padrao_terraform_azure_windows/Provider Azure Windows.md",
     "Terraform/padrao_terraform_azure_windows/Variables Azure  Windows.md",
     "AWS/Criando uma secret key na AWS.md",
-    "Terraform/padrao_terraform_azure_linux/Variáveis Terraform Linux.md",
-    "AWS/Criando um par de chaves AWS.md"
+    "Terraform/padrao_terraform_azure_linux/Variáveis Terraform Linux.md"
   ]
 }
