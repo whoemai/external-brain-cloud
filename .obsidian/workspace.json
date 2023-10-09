@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03b6fc923206a570",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ed4ce7de3d9b8457",
+  "active": "03b6fc923206a570",
   "lastOpenFiles": [
     "Cloud/Load balancer.canvas",
     "AWS/Vinculando par de chaves SSH.md",
