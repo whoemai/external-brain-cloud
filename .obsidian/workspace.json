@@ -11,8 +11,12 @@
             "id": "709878e785857438",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Criando um par de chaves AWS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS/Criando um par de chaves AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS/Criando um par de chaves AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS/Criando um par de chaves AWS.md"
+              }
             }
           }
         ]
@@ -138,13 +146,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "709878e785857438",
+  "active": "e7ac8523097fea27",
   "lastOpenFiles": [
-    "Cloud/Homologação vs Desenvolvimento.md",
     "Cloud/O que é PAAS, SAAS e IAAS.md",
+    "Cloud/Homologação vs Desenvolvimento.md",
     "Cloud/Load balancer.canvas",
-    "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
     "AWS/Vinculando par de chaves SSH.md",
+    "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
     "AWS/Criando um par de chaves AWS.md",
     "Cloud",
     "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
