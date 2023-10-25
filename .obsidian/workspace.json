@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Criando um par de chaves AWS.md",
+                "file": "Cloud/Docker comunicação.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Criando um par de chaves AWS.md",
+                "file": "Cloud/Docker comunicação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Criando um par de chaves AWS.md",
+                "file": "Cloud/Docker comunicação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Criando um par de chaves AWS.md"
+                "file": "Cloud/Docker comunicação.md"
               }
             }
           }
@@ -146,14 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e7ac8523097fea27",
+  "active": "709878e785857438",
   "lastOpenFiles": [
+    "AWS/Criando um par de chaves AWS.md",
+    "Cloud/Docker comunicação.md",
     "Cloud/O que é PAAS, SAAS e IAAS.md",
     "Cloud/Homologação vs Desenvolvimento.md",
     "Cloud/Load balancer.canvas",
     "AWS/Vinculando par de chaves SSH.md",
     "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
-    "AWS/Criando um par de chaves AWS.md",
     "Cloud",
     "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Main Azure Linux.md",
