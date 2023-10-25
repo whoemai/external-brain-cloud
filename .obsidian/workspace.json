@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "f00d98080f2c4dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS/Vinculando par de chaves SSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "89bc3409505f8e77",
             "type": "leaf",
             "state": {
@@ -152,6 +164,7 @@
   },
   "active": "709878e785857438",
   "lastOpenFiles": [
+    "AWS/Vinculando par de chaves SSH.md",
     "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Variables Azure Linux .tfvars.md",
     "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
@@ -162,7 +175,6 @@
     "AWS/Criando um par de chaves AWS.md",
     "Cloud/O que é PAAS, SAAS e IAAS.md",
     "Cloud/Load balancer.canvas",
-    "AWS/Vinculando par de chaves SSH.md",
     "Cloud",
     "Terraform/padrao_terraform_azure_windows/Backend Azure Windows.md",
     "Terraform/padrao_terraform_azure_windows/Main Azure Windows.md",

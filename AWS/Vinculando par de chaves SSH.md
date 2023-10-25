@@ -1,4 +1,4 @@
-#AWS #Cloud #Terraform 
+#AWS #Cloud 
 
 ```hcl
 resource "aws_key_pair" "chaveSSH" {
