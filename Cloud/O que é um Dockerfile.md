@@ -1,4 +1,4 @@
-#Docker 
+#Docker #Cloud 
 
 Um Dockerfile é um script que contém instruções para construir uma imagem Docker. Ele descreve os passos necessários para criar um ambiente isolado para a execução de uma aplicação.
 
@@ -65,4 +65,4 @@ docker run -p 8080:8080 minha-aplicacao
 
 Acesse `http://localhost:8080` no navegador para ver a aplicação.
 
-Este é um exemplo básico, mas o Dockerfile pode ser personalizado para atender às necessidades específicas da sua aplicação. A compreensão do Dockerfile é essencial para trabalhar eficientemente com contêineres Docker.
+Este é um exemplo básico, mas o Dockerfile pode ser personalizado para atender às necessidades específicas da sua aplicação.
