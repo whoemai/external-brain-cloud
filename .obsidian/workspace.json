@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d21e2a8d4d57786a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/O que é um Dockerfile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Integração Contínua, pipelines e docker.md",
+                "file": "Cloud/O que é um Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Integração Contínua, pipelines e docker.md",
+                "file": "Cloud/O que é um Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Integração Contínua, pipelines e docker.md"
+                "file": "Cloud/O que é um Dockerfile.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "55cc3eeab85115c3",
+  "active": "d21e2a8d4d57786a",
   "lastOpenFiles": [
+    "Cloud/Integração Contínua, pipelines e docker.md",
+    "Cloud/O que é um Dockerfile.md",
     "Cloud/Docker comunicação através de redes.md",
     "Cloud/O que é PAAS, SAAS e IAAS.md",
-    "Cloud/Integração Contínua, pipelines e docker.md",
     "Cloud/Homologação vs Desenvolvimento.md",
     "Cloud/Load balancer.canvas",
     "AWS/Vinculando par de chaves SSH.md",
