@@ -11,24 +11,18 @@
             "id": "55cc3eeab85115c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Cloud/O que é um Dockerfile.md",
-                "mode": "source",
-                "source": false
+                "file": "Cloud/Load balancer.canvas",
+                "viewState": {
+                  "x": 109.33225176041114,
+                  "y": -76.7447715789127,
+                  "zoom": -0.6866635273598296
+                }
               }
             }
-          },
-          {
-            "id": "d21e2a8d4d57786a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/O que é um Dockerfile.md",
+                "file": "Cloud/Load balancer.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/O que é um Dockerfile.md",
+                "file": "Cloud/Load balancer.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/O que é um Dockerfile.md"
+                "file": "Cloud/Load balancer.canvas"
               }
             }
           }
@@ -156,7 +150,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d21e2a8d4d57786a",
+  "active": "55cc3eeab85115c3",
   "lastOpenFiles": [
     "Cloud/O que é um Dockerfile.md",
     "Cloud/Integração Contínua, pipelines e docker.md",
