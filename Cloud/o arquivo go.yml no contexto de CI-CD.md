@@ -37,5 +37,3 @@ Vamos entender o que está acontecendo aqui:
 Este é um exemplo simples, mas em aplicações do mundo real, você poderia personalizar isso de acordo com as necessidades do seu projeto.
 
 Por exemplo, você pode adicionar etapas para análise estática de código, verificação de segurança, ou integração com serviços de nuvem como AWS ou Azure, dependendo das suas ferramentas preferidas.
-
-Lembre-se, a ideia principal do CI/CD é automatizar o processo de desenvolvimento, testes e implantação para garantir uma entrega rápida e confiável de software. Espero que isso ajude no seu entendimento!
