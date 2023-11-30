@@ -149,10 +149,10 @@
   "active": "55cc3eeab85115c3",
   "lastOpenFiles": [
     "Cloud/Integração Contínua, pipelines e docker.md",
-    "Cloud/Homologação vs Desenvolvimento.md",
     "Cloud/Docker comunicação através de redes.md",
-    "Cloud/Load balancer.canvas",
     "Cloud/O que é um Dockerfile.md",
+    "Cloud/Homologação vs Desenvolvimento.md",
+    "Cloud/Load balancer.canvas",
     "Cloud/O que é PAAS, SAAS e IAAS.md",
     "AWS/Vinculando par de chaves SSH.md",
     "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
