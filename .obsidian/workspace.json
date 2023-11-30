@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/O que é um Dockerfile.md",
+                "file": "Cloud/o arquivo go.yml no contexto de CI-CD.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d2e846f367dd8430",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/O que é um Dockerfile.md",
+                "file": "Cloud/o arquivo go.yml no contexto de CI-CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/O que é um Dockerfile.md",
+                "file": "Cloud/o arquivo go.yml no contexto de CI-CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/O que é um Dockerfile.md"
+                "file": "Cloud/o arquivo go.yml no contexto de CI-CD.md"
               }
             }
           }
@@ -148,9 +149,10 @@
   },
   "active": "55cc3eeab85115c3",
   "lastOpenFiles": [
+    "Cloud/O que é um Dockerfile.md",
+    "Cloud/o arquivo go.yml no contexto de CI-CD.md",
     "Cloud/Integração Contínua, pipelines e docker.md",
     "Cloud/Docker comunicação através de redes.md",
-    "Cloud/O que é um Dockerfile.md",
     "Cloud/Homologação vs Desenvolvimento.md",
     "Cloud/Load balancer.canvas",
     "Cloud/O que é PAAS, SAAS e IAAS.md",
