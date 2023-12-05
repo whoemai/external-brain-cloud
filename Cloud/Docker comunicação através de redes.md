@@ -53,4 +53,4 @@ Vamos considerar um cenário em que temos dois contêineres, um rodando um aplic
 
 Agora, o contêiner Node.js pode se comunicar com o MongoDB usando o nome do contêiner como host.
 
-Essa é uma visão geral básica sobre a comunicação de redes no Docker, utilizando exemplos práticos. Se tiver mais dúvidas ou quiser explorar aspectos específicos, sinta-se à vontade para perguntar!
+Essa é uma visão geral básica sobre a comunicação de redes no Docker, utilizando exemplos práticos.
