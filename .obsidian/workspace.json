@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Docker comunicação através de redes.md",
+                "file": "Cloud/Integração Contínua, pipelines e docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d2e846f367dd8430",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Docker comunicação através de redes.md",
+                "file": "Cloud/Integração Contínua, pipelines e docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Docker comunicação através de redes.md",
+                "file": "Cloud/Integração Contínua, pipelines e docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Docker comunicação através de redes.md"
+                "file": "Cloud/Integração Contínua, pipelines e docker.md"
               }
             }
           }
@@ -149,13 +148,13 @@
   },
   "active": "55cc3eeab85115c3",
   "lastOpenFiles": [
-    "Cloud/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
-    "Cloud/o arquivo go.yml no contexto de CI-CD.md",
-    "Cloud/O que é um Dockerfile.md",
+    "Cloud/Load balancer.canvas",
     "Cloud/Integração Contínua, pipelines e docker.md",
     "Cloud/Docker comunicação através de redes.md",
+    "Cloud/o arquivo go.yml no contexto de CI-CD.md",
+    "Cloud/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
+    "Cloud/O que é um Dockerfile.md",
     "Cloud/Homologação vs Desenvolvimento.md",
-    "Cloud/Load balancer.canvas",
     "Cloud/O que é PAAS, SAAS e IAAS.md",
     "AWS/Vinculando par de chaves SSH.md",
     "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
