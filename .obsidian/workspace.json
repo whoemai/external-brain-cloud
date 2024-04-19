@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
+                "file": "Azure/az-900/Treinamento para AZ-900.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
+                "file": "Azure/az-900/Treinamento para AZ-900.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
+                "file": "Azure/az-900/Treinamento para AZ-900.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md"
+                "file": "Azure/az-900/Treinamento para AZ-900.md"
               }
             }
           }
@@ -160,9 +160,10 @@
   },
   "active": "370862d5f7f8b5af",
   "lastOpenFiles": [
+    "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
+    "Azure/az-900/Treinamento para AZ-900.md",
     "Azure/terraform/terraform azure linux/Main Azure Linux.md",
     "Azure/terraform/terraform azure linux/Variables Azure Linux .tfvars.md",
-    "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
     "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
     "2024-04-19.md",
     "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
@@ -194,7 +195,6 @@
     "Terraform/padrao_terraform_azure_linux/Variables Azure Linux .tfvars.md",
     "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Main Azure Linux.md",
-    "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
     "Cloud"
   ]
 }
