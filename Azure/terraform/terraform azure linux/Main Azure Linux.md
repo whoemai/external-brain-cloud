@@ -86,6 +86,7 @@ resource "azurerm_virtual_machine_data_disk_attachment" "disk2" {
 }
 ```
 
+----
 # Configuração do Terraform para Criar uma VM Linux na Azure
 
 Neste guia, vou dividir o script Terraform em blocos com explicações.

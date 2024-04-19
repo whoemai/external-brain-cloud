@@ -1,36 +1,17 @@
-#Cloud #Azure #Terraform #Linux
+#Terraform #Azure #Cloud #Linux 
 
 ```hcl
-terraform {
-    backend "azurerm" {
-        # resource_group_name = "rg-terraform-backend"
-        # storage_account_name = "strecterraformbackend"
-        # container_name = "terraform-tfstate"
-        # key = "tf-az-#NOME_DO_RECURSO#.tfstate"
-    }
-    required_providers {
-    azurerm = {
-      source  = "hashicorp/azurerm"
-      version = "3.5.0"
-    }
-  }
+provider "azurerm" {
+  features {}
+  skip_provider_registration = true
 }
-
-# terraform {
-#   backend "local" {}
-#   required_providers {
-#     azurerm = {
-#       source  = "hashicorp/azurerm"
-#       version = "3.5.0"
-#     }
-#   }
-# }
 ```
 
 # Configuração do Terraform para Provedor Azure
 
-Aqui está a explicação para o trecho de código que configura o provedor Azure:
-## 6. **Configuração do Provedor Azure**
+Aqui está a explicação para o trecho de código que configura o provedor Azure no seu script Terraform:
+
+## 1. **Configuração do Provedor Azure**
 
 ```hcl
 provider "azurerm" {

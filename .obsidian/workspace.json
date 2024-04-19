@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/terraform azure linux/Backend Azure Linux.md",
+                "file": "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/terraform azure linux/Backend Azure Linux.md",
+                "file": "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/terraform azure linux/Backend Azure Linux.md",
+                "file": "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/terraform azure linux/Backend Azure Linux.md"
+                "file": "Azure/terraform/terraform azure windows/Backend Azure Windows.md"
               }
             }
           }
@@ -146,41 +146,42 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "370862d5f7f8b5af",
+  "active": "e7ac8523097fea27",
   "lastOpenFiles": [
-    "Azure/terraform azure linux/Provider Azure Linux.md",
-    "Azure/terraform azure linux/Main Azure Linux.md",
-    "Azure/terraform azure windows/Main Azure Windows.md",
-    "Azure/terraform azure windows/Provider Azure Windows.md",
-    "Azure/terraform azure windows/Backend Azure Windows.md",
-    "Azure/terraform azure linux/Backend Azure Linux.md",
-    "Azure/terraform azure linux/Variables Azure Linux .tfvars.md",
-    "Azure/terraform azure linux/Variáveis Azure Linux.md",
-    "Azure/terraform azure windows/Variables Azure  Windows.md",
-    "Azure/terraform azure windows",
-    "Azure/terraform azure linux",
-    "Azure/terraform azure windows",
+    "Azure/Sem título",
+    "Azure/Sem título.md",
+    "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
     "Sem título",
-    "Azure",
-    "Azure",
+    "Azure/terraform",
+    "Azure/terraform/terraform azure windows/Main Azure Windows.md",
+    "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
+    "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
+    "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
+    "Azure/terraform/terraform azure linux/Variables Azure Linux .tfvars.md",
+    "Azure/terraform/terraform azure linux/Provider Azure Linux.md",
+    "Azure/terraform/terraform azure linux/Main Azure Linux.md",
+    "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
+    "AWS/Vinculando par de chaves SSH.md",
+    "AWS/Criando uma secret key na AWS.md",
+    "AWS/Criando um par de chaves AWS.md",
+    "Cloud/O que é um Dockerfile.md",
+    "Cloud/O que é PAAS, SAAS e IAAS.md",
+    "Cloud/o arquivo go.yml no contexto de CI-CD.md",
     "Cloud/Load balancer.canvas",
     "Cloud/Integração Contínua, pipelines e docker.md",
-    "Cloud/Docker comunicação através de redes.md",
-    "Cloud/o arquivo go.yml no contexto de CI-CD.md",
-    "Cloud/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
-    "Cloud/O que é um Dockerfile.md",
     "Cloud/Homologação vs Desenvolvimento.md",
-    "Cloud/O que é PAAS, SAAS e IAAS.md",
-    "AWS/Vinculando par de chaves SSH.md",
+    "Cloud/Docker comunicação através de redes.md",
+    "Cloud/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
+    "Azure/terraform/terraform azure windows",
+    "Azure/terraform/terraform azure linux",
+    "Azure/terraform/terraform azure windows",
+    "Azure",
+    "Azure",
     "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Variables Azure Linux .tfvars.md",
     "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Main Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Backend Azure Linux.md",
-    "AWS/Criando um par de chaves AWS.md",
-    "Cloud",
-    "Terraform/padrao_terraform_azure_windows/Backend Azure Windows.md",
-    "Terraform/padrao_terraform_azure_windows/Main Azure Windows.md",
-    "Terraform/padrao_terraform_azure_windows/Provider Azure Windows.md"
+    "Cloud"
   ]
 }
