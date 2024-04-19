@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d2e846f367dd8430",
@@ -145,8 +144,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "370862d5f7f8b5af",
+  "active": "e7ac8523097fea27",
   "lastOpenFiles": [
+    "Azure",
     "Cloud/Load balancer.canvas",
     "Cloud/Integração Contínua, pipelines e docker.md",
     "Cloud/Docker comunicação através de redes.md",
