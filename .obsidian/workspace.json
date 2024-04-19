@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e0be30ad8f8736f",
+        "id": "3548e218c90cae53",
         "type": "tabs",
         "children": [
           {
-            "id": "55cc3eeab85115c3",
+            "id": "370862d5f7f8b5af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Cloud/Integração Contínua, pipelines e docker.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -147,7 +145,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e7ac8523097fea27",
+  "active": "370862d5f7f8b5af",
   "lastOpenFiles": [
     "Cloud/Load balancer.canvas",
     "Cloud/Integração Contínua, pipelines e docker.md",
