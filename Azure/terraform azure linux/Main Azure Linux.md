@@ -85,3 +85,85 @@ resource "azurerm_virtual_machine_data_disk_attachment" "disk2" {
   caching            = "ReadWrite"
 }
 ```
+
+# Configuração do Terraform para Criar uma VM Linux na Azure
+
+Neste guia, vou dividir o script Terraform em blocos com explicações.
+
+## 1. **Definição do Grupo de Recursos**
+
+```hcl
+data "azurerm_resource_group" "res-2" {
+  name = var.resource_group_name
+}
+```
+
+- **Descrição**: Este bloco define um **grupo de recursos** no Azure.
+- **Responsabilidade**: O grupo de recursos é usado para organizar e gerenciar recursos relacionados. Ele agrupa recursos que compartilham o mesmo ciclo de vida, permissões e políticas.
+- **Detalhes**:
+    - O nome do grupo de recursos é obtido da variável `var.resource_group_name`.
+
+## 2. **Acesso ao Azure Key Vault**
+
+```hcl
+data "azurerm_key_vault" "kv-infraestrutura" {
+  name                = var.kv_name
+  resource_group_name = var.kv_resource_group_name
+}
+```
+
+- **Descrição**: Este bloco obtém informações de um **Azure Key Vault**.
+- **Responsabilidade**: O Azure Key Vault é usado para armazenar e gerenciar segredos, chaves e certificados.
+- **Detalhes**:
+    - O nome do Key Vault é obtido da variável `var.kv_name`.
+    - O grupo de recursos associado ao Key Vault é obtido da variável `var.kv_resource_group_name`.
+
+## 3. **Chave Pública SSH do Key Vault**
+
+```hcl
+data "azurerm_key_vault_secret" "SSHPublicKey" {
+  name         = var.sshsecretname
+  key_vault_id = data.azurerm_key_vault.kv-infraestrutura.id
+}
+```
+
+- **Descrição**: Este bloco obtém a **chave pública SSH** armazenada no Key Vault.
+- **Responsabilidade**: A chave pública SSH será usada para autenticar na VM Linux.
+- **Detalhes**:
+    - O nome do segredo (chave pública SSH) é obtido da variável `var.sshsecretname`.
+    - O ID do Key Vault é obtido do bloco anterior.
+
+## 4. **Configuração da VM Linux**
+
+```hcl
+resource "azurerm_linux_virtual_machine" "res-1" {
+  # Configurações da VM...
+}
+```
+
+- **Descrição**: Este bloco cria uma **máquina virtual Linux** na Azure.
+- **Responsabilidade**: A VM Linux será provisionada com as configurações especificadas.
+- **Detalhes**:
+    - Nome de usuário do administrador: `var.admin_username`
+    - Localização: obtida do grupo de recursos
+    - Nome da VM: `var.vm_name`
+    - Chave pública SSH: obtida do Key Vault
+    - Tamanho da VM: `var.vm_size`
+    - Imagem do sistema operacional: Ubuntu 20.04 LTS
+
+## 5. **Interface de Rede da VM**
+
+```hcl
+resource "azurerm_network_interface" "res-0" {
+  # Configurações da interface de rede...
+}
+```
+
+- **Descrição**: Este bloco cria uma **interface de rede** para a VM.
+- **Responsabilidade**: A interface de rede conecta a VM à rede virtual.
+- **Detalhes**:
+    - Localização: obtida do grupo de recursos
+    - Nome da interface: gerado aleatoriamente
+    - Dependência: aguarda a criação da interface de rede antes de criar a VM
+
+Lembre-se de preencher as variáveis (`var.resource_group_name`, `var.kv_name`, etc.) com os valores apropriados antes de executar o Terraform.
