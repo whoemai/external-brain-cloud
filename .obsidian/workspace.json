@@ -11,12 +11,8 @@
             "id": "370862d5f7f8b5af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Azure/terraform/terraform azure windows/Variables Azure  Windows.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +152,8 @@
   },
   "active": "370862d5f7f8b5af",
   "lastOpenFiles": [
-    "2024-04-19.md",
     "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
+    "2024-04-19.md",
     "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
     "Azure/terraform/terraform azure windows/Main Azure Windows.md",
     "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
