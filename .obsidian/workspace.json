@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3548e218c90cae53",
+        "id": "445cdb0d586e72d1",
         "type": "tabs",
         "children": [
           {
-            "id": "370862d5f7f8b5af",
+            "id": "d290d6de9d4d811a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Azure/az-900/Treinamento para AZ-900.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "826aa04583a495d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,10 +146,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "370862d5f7f8b5af",
+  "active": "d290d6de9d4d811a",
   "lastOpenFiles": [
-    "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
+    "[(46).md",
     "Azure/az-900/Treinamento para AZ-900.md",
+    "[AZ-900.md",
+    "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
     "Azure/terraform/terraform azure linux/Main Azure Linux.md",
     "Azure/terraform/terraform azure linux/Variables Azure Linux .tfvars.md",
     "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
@@ -193,8 +183,6 @@
     "Azure",
     "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
     "Terraform/padrao_terraform_azure_linux/Variables Azure Linux .tfvars.md",
-    "Terraform/padrao_terraform_azure_linux/Provider Azure Linux.md",
-    "Terraform/padrao_terraform_azure_linux/Main Azure Linux.md",
     "Cloud"
   ]
 }
