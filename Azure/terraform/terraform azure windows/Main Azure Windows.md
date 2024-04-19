@@ -1,4 +1,4 @@
-#Azure #Terraform #Cloud
+#Azure #Terraform #Windows
 
 ```hcl
 # Recurso de grupo Azure Resource Group

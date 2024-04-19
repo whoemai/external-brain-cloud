@@ -1,4 +1,4 @@
-#AWS #Cloud
+#AWS 
 A criação de um par de chaves na AWS é uma etapa fundamental para proteger seus recursos na nuvem, garantindo autenticação segura e controle de acesso apropriado. Essa prática é parte integrante das melhores práticas de segurança na nuvem.
 
 **No Console AWS:**

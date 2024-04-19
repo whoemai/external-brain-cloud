@@ -1,4 +1,4 @@
-#Azure #Terraform #Cloud #Linux 
+#Azure #Terraform  #Linux 
 
 ```hcl
 data "azurerm_resource_group" "res-2" {

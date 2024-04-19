@@ -1,4 +1,4 @@
-#AWS #Cloud 
+#AWS  
 
 ```hcl
 resource "aws_key_pair" "chaveSSH" {

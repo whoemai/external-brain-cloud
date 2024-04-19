@@ -1,4 +1,4 @@
-#Cloud #Azure #Terraform #Linux 
+ #Azure #Terraform #Linux 
 
 ```hcl
 variable "admin_username" {

@@ -1,4 +1,5 @@
-#Terraform #Azure #Cloud
+#Terraform #Azure #Windows 
+
 ```hcl
 variable "admin_username" {
   type        = string

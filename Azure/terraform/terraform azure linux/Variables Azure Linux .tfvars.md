@@ -1,4 +1,4 @@
-#Terraform #Azure #Cloud #Linux 
+#Terraform #Azure  #Linux 
 
 ```hcl
 vm_name                = "xxx"

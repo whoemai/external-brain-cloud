@@ -1,5 +1,4 @@
-#Azure #Terraform #Cloud #
-
+#Azure #Terraform #Windows
 # Configuração do Backend Azure para Armazenamento do Estado Remoto do Terraform
 
 Este documento descreve a configuração do backend Azure para armazenamento do estado remoto do Terraform. O estado remoto é uma parte essencial ao trabalhar com o Terraform, pois permite que você compartilhe e bloqueie o estado entre membros da equipe para gerenciar sua infraestrutura de forma colaborativa.

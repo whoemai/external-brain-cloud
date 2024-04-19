@@ -1,4 +1,4 @@
-#Terraform #Azure #Cloud
+#Terraform #Azure #Windows
 # Configuração do Provedor AzureRM
 
 Este documento descreve a configuração do provedor AzureRM usando Terraform. O código fornecido define a configuração do provedor AzureRM para uso em seu ambiente de infraestrutura.
