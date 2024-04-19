@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a45b5937cc14677f",
+        "id": "a97a61a0453a4ff7",
         "type": "tabs",
         "children": [
           {
-            "id": "575476eb04c50353",
+            "id": "9c9b525706487e37",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "terraform/terraform azure linux/Backend Azure Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "terraform/terraform azure linux/Backend Azure Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "terraform/terraform azure linux/Backend Azure Linux.md"
+              }
             }
           }
         ]
@@ -138,6 +142,6 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "575476eb04c50353",
+  "active": "17e620fd9fc3180b",
   "lastOpenFiles": []
 }
