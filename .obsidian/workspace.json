@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure/az-900/Treinamento para AZ-900.md",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/az-900/Treinamento para AZ-900.md",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/az-900/Treinamento para AZ-900.md",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/az-900/Treinamento para AZ-900.md"
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "d290d6de9d4d811a",
   "lastOpenFiles": [
-    "[(46).md",
     "Azure/az-900/Treinamento para AZ-900.md",
+    "Cloud/Docker/Guia rápido de comandos Docker.md",
+    "Cloud/Docker",
     "[AZ-900.md",
+    "[(46).md",
     "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
     "Azure/terraform/terraform azure linux/Main Azure Linux.md",
     "Azure/terraform/terraform azure linux/Variables Azure Linux .tfvars.md",
@@ -161,9 +163,9 @@
     "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
     "Azure/terraform/terraform azure linux/Provider Azure Linux.md",
     "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
-    "Cloud/Docker comunicação através de redes.md",
+    "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Homologação vs Desenvolvimento.md",
-    "Cloud/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
+    "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
     "AWS/Vinculando par de chaves SSH.md",
     "AWS/Criando uma secret key na AWS.md",
     "AWS/Criando um par de chaves AWS.md",
@@ -182,7 +184,6 @@
     "Azure",
     "Azure",
     "Terraform/padrao_terraform_azure_linux/Variáveis Azure Linux.md",
-    "Terraform/padrao_terraform_azure_linux/Variables Azure Linux .tfvars.md",
     "Cloud"
   ]
 }
