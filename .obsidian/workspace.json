@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md"
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   "active": "d08aad434557bd66",
   "lastOpenFiles": [
     "Cloud/Docker/Docker comunicação através de redes.md",
-    "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
+    "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Load balancer.canvas",
     "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
     "Azure/az-900/Treinamento para AZ-900.md",
