@@ -1,0 +1,2 @@
+- Definir como vamos criar os ambientes na Azure
+- Desenhar arquitetura e escopo dos recursos e segurança 

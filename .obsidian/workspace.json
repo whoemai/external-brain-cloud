@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "7d6d8864a290e862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b4e23bc21ade40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "bde5db7942c0b421",
         "type": "tabs",
         "children": [
@@ -11,11 +29,9 @@
             "id": "d08aad434557bd66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
-                "mode": "source",
-                "source": false
+                "file": "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf"
               }
             }
           }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md"
+                "file": "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md"
               }
             }
           }
@@ -146,14 +162,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d08aad434557bd66",
+  "active": "94b4e23bc21ade40",
   "lastOpenFiles": [
+    "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
+    "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
+    "Cloud/Fluxograma/CNN",
+    "Sem título",
+    "Cloud/Fluxograma",
+    "Sem título.canvas",
+    "AWS/Vinculando par de chaves SSH.md",
+    "Azure/az-900/Treinamento para AZ-900.md",
+    "AWS/Criando uma secret key na AWS.md",
+    "AWS/Criando um par de chaves AWS.md",
+    "Cloud/Docker/Guia rápido de comandos Docker.md",
+    "Cloud/CICD/ci-cd.drawio.png",
+    "Cloud/CICD",
+    "Automações Cloud/script-start-stop-vm.ps1",
+    "Automações Cloud",
     "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
-    "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Load balancer.canvas",
     "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
-    "Azure/az-900/Treinamento para AZ-900.md",
     "Cloud/Docker",
     "[AZ-900.md",
     "[(46).md",
@@ -167,22 +196,11 @@
     "Azure/terraform/terraform azure linux/Provider Azure Linux.md",
     "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
     "Cloud/Homologação vs Desenvolvimento.md",
-    "AWS/Vinculando par de chaves SSH.md",
-    "AWS/Criando uma secret key na AWS.md",
-    "AWS/Criando um par de chaves AWS.md",
     "Azure/az-900",
     "Azure/Sem título.md",
-    "Sem título",
     "Azure/terraform",
     "Cloud/O que é um Dockerfile.md",
     "Cloud/O que é PAAS, SAAS e IAAS.md",
-    "Cloud/o arquivo go.yml no contexto de CI-CD.md",
-    "Cloud/Integração Contínua, pipelines e docker.md",
-    "Azure/terraform/terraform azure windows",
-    "Azure/terraform/terraform azure linux",
-    "Azure/terraform/terraform azure windows",
-    "Azure",
-    "Azure",
-    "Cloud"
+    "Cloud/o arquivo go.yml no contexto de CI-CD.md"
   ]
 }
