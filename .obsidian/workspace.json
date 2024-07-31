@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
+                "file": "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
+                "file": "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md"
+                "file": "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf"
               }
             }
           }
@@ -162,10 +162,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "94b4e23bc21ade40",
+  "active": "d08aad434557bd66",
   "lastOpenFiles": [
-    "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
     "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
+    "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
     "Cloud/Fluxograma/CNN",
     "Sem título",
     "Cloud/Fluxograma",
