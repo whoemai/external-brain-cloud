@@ -13,25 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bde5db7942c0b421",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d08aad434557bd66",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf"
               }
             }
           }
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf"
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md"
               }
             }
           }
@@ -162,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d08aad434557bd66",
+  "active": "94b4e23bc21ade40",
   "lastOpenFiles": [
+    "Cloud/Docker/Docker comunicação através de redes.md",
+    "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
     "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
     "Cloud/Fluxograma/CNN",
@@ -179,8 +165,6 @@
     "Cloud/CICD",
     "Automações Cloud/script-start-stop-vm.ps1",
     "Automações Cloud",
-    "Cloud/Docker/Docker comunicação através de redes.md",
-    "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
     "Cloud/Load balancer.canvas",
     "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
     "Cloud/Docker",
