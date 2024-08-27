@@ -10,6 +10,7 @@
 - **`docker ps`**: Lista todos os contêineres em execução.
 - **`docker logs`**: Exibe os logs de um contêiner.
 - `docker ps -a`: Lista todos os contêineres, independentemente de estarem em execução ou não.
+- `sudo service docker status`: Usado para verificar o status do serviço Docker no seu sistema.
 
 ### Comandos de Gerenciamento de Imagens:
 
