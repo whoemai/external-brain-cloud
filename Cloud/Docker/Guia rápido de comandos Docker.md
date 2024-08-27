@@ -17,6 +17,8 @@
 - **`docker pull`**: Baixa uma imagem do Docker Hub para o seu host local.
 - **`docker images`**: Lista todas as imagens disponíveis no host local.
 - **`docker build`**: Constrói uma imagem a partir de um Dockerfile.
+- `docker rm` :  Remove um container.
+- `docker rmi` : Remove uma imagem.
 
 ### Comandos de Controle de Contêiner:
 
