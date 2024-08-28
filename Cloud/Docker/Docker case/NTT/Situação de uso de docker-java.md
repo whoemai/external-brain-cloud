@@ -33,4 +33,27 @@ docker run -d -p 8080:8080 myapp:latest
 - `-d` : Esta flag indica que o contêiner deve ser executado em segundo plano (modo “detached”). Isso significa que o terminal não ficará ocupado com a saída do contêiner, permitindo que você continue usando o terminal para outros comandos.
 - `-p 8080:8080` : Esta opção mapeia a porta 8080 do host (seu computador) para a porta 8080 do contêiner. Isso é necessário para que você possa acessar a aplicação rodando dentro do contêiner através do seu navegador ou outras ferramentas externas.
 - A sintaxe é `-p <porta_host>:<porta_container>`. No exemplo, a porta 8080 do host está sendo mapeada para a porta 8080 do contêiner.
-- 1. `myapp:latest` : Este é o nome da imagem Docker que será usada para criar o contêiner. `myapp` é o nome da imagem e `latest` é a tag da imagem, indicando que a versão mais recente da imagem deve ser usada. Se você não especificar uma tag, o Docker usará `latest` por padrão.
+- `myapp:latest` : Este é o nome da imagem Docker que será usada para criar o contêiner. `myapp` é o nome da imagem e `latest` é a tag da imagem, indicando que a versão mais recente da imagem deve ser usada. Se você não especificar uma tag, o Docker usará `latest` por padrão.
+- Inicia o contêiner em segundo plano, executando o comando especificado no Dockerfile (`ENTRYPOINT ["java", "-jar", "myapp.jar"]`).
+
+Se a aplicação Java depende de outros serviços, como um banco de dados, você pode usar o Docker Compose para gerenciar múltiplos contêineres:
+```yaml
+version: '3.8'
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+
+  db:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: mydatabase
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+```
+
