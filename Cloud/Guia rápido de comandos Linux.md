@@ -20,7 +20,7 @@
 - **`pidof [nome_do_programa]`**: Retorna o PID de um programa específico.
 - **`systemctl status [serviço]`**: Verifica o status de um serviço específico, como `systemctl status mysql` para verificar o status do MySQL.
 - **`service [serviço] status`**: Outra forma de verificar o status de um serviço, como `service apache2 status` para o Apache.
-- - **`netstat -tuln`**: Mostra todas as portas abertas e serviços em execução
+- **`netstat -tuln`**: Mostra todas as portas abertas e serviços em execução
 - **`ss -tuln`**: Similar ao `netstat`, mas mais moderno e eficiente.
 
 ### Comandos de Gerenciamento de Pacotes:
