@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md"
+                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "115ca9337f01c33a",
   "lastOpenFiles": [
+    "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/Linux/Tornando um Arquivo Executável.md",
     "Cloud/O que é um Dockerfile.md",
@@ -185,7 +186,6 @@
     "AWS/Criando uma secret key na AWS.md",
     "AWS/Criando um par de chaves AWS.md",
     "Cloud/Linux",
-    "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Docker/Docker case/NTT",
     "Cloud/Docker/Docker case",
     "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
