@@ -24,5 +24,3 @@
 
 - **`docker stop`**: Para um contêiner em execução.
 - **`docker exec`**: Executa um comando em um contêiner em execução.
-
-Se precisar de mais alguma coisa ou tiver outras dúvidas, estou aqui para ajudar!
