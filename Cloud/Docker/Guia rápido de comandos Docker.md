@@ -15,10 +15,7 @@
 - `docker logs --since "2023-08-27T15:00:00"` : - A opção `--since` permite que você veja os logs gerados após uma data e hora específicas.
 - `docker ps -a`: Lista todos os contêineres, independentemente de estarem em execução ou não.
 - `sudo service docker status`: Usado para verificar o status do serviço Docker no seu sistema.
-- ```sh
-docker inspect <container_id_or_name>
-```
-
+- `docker inspect` : - Fornece detalhes completos sobre o contêiner, incluindo configurações de rede, volumes montados e muito mais.
 
 ### Comandos de Gerenciamento de Imagens:
 
