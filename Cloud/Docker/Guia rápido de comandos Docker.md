@@ -9,9 +9,16 @@
 
 - **`docker ps`**: Lista todos os contêineres em execução.
 - **`docker logs`**: Exibe os logs de um contêiner.
-- `docker `
+- `docker logs -f` : Exibe os logs em tempo real conforme são gerados.
+- `docker logs -t` : Exibe os logs com timestamps
+- `docker logs --tail 100` :  A opção `--tail` permite que você veja apenas as últimas N linhas dos logs.
+- `docker logs --since "2023-08-27T15:00:00"` : - A opção `--since` permite que você veja os logs gerados após uma data e hora específicas.
 - `docker ps -a`: Lista todos os contêineres, independentemente de estarem em execução ou não.
 - `sudo service docker status`: Usado para verificar o status do serviço Docker no seu sistema.
+- ```sh
+docker inspect <container_id_or_name>
+```
+
 
 ### Comandos de Gerenciamento de Imagens:
 
