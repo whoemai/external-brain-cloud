@@ -1,4 +1,4 @@
-#Cloud #Docker 
+ #Docker 
 
 A integração entre Docker e os arquivos `go.yml` em CI/CD é uma prática comum para facilitar a construção, teste e implantação de software. O Docker é utilizado para criar ambientes isolados, garantindo consistência e facilitando a distribuição de aplicações.
 

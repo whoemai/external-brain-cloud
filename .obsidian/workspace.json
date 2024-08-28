@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Guia rápido de comandos Linux.md",
+                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Azure",
+                "query": "tag:#Cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 278.5
   },
   "right": {
     "id": "d2e846f367dd8430",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Guia rápido de comandos Linux.md",
+                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Guia rápido de comandos Linux.md",
+                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Guia rápido de comandos Linux.md"
+                "file": "Cloud/Linux/Guia rápido de comandos Linux.md"
               }
             }
           }
@@ -161,44 +162,43 @@
   },
   "active": "115ca9337f01c33a",
   "lastOpenFiles": [
-    "Cloud/Docker/Guia rápido de comandos Docker.md",
-    "Cloud/Guia rápido de comandos Linux.md",
     "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
     "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
+    "Cloud/CICD/ci-cd.drawio.png",
+    "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
+    "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
+    "Azure/terraform/terraform azure windows/Main Azure Windows.md",
+    "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
+    "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
+    "Azure/terraform/terraform azure linux/Variables Azure Linux .tfvars.md",
+    "Azure/terraform/terraform azure linux/Provider Azure Linux.md",
+    "Azure/terraform/terraform azure linux/Main Azure Linux.md",
+    "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
+    "AWS/Vinculando par de chaves SSH.md",
+    "AWS/Criando uma secret key na AWS.md",
+    "AWS/Criando um par de chaves AWS.md",
+    "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
+    "Cloud/Linux/Tornando um Arquivo Executável.md",
+    "Cloud/Linux/Guia rápido de comandos Linux.md",
+    "Cloud/Linux",
+    "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Docker/Docker case/NTT",
     "Cloud/Docker/Docker case",
-    "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
     "Cloud/Fluxograma/CNN",
     "Sem título",
     "Cloud/Fluxograma",
     "Sem título.canvas",
-    "AWS/Vinculando par de chaves SSH.md",
     "Azure/az-900/Treinamento para AZ-900.md",
-    "AWS/Criando uma secret key na AWS.md",
-    "AWS/Criando um par de chaves AWS.md",
-    "Cloud/CICD/ci-cd.drawio.png",
     "Cloud/CICD",
     "Automações Cloud/script-start-stop-vm.ps1",
     "Automações Cloud",
     "Cloud/Load balancer.canvas",
-    "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
-    "Cloud/Docker",
     "[AZ-900.md",
     "[(46).md",
-    "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
-    "Azure/terraform/terraform azure linux/Main Azure Linux.md",
-    "Azure/terraform/terraform azure linux/Variables Azure Linux .tfvars.md",
-    "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
     "2024-04-19.md",
-    "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
-    "Azure/terraform/terraform azure windows/Main Azure Windows.md",
-    "Azure/terraform/terraform azure linux/Provider Azure Linux.md",
-    "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
     "Cloud/Homologação vs Desenvolvimento.md",
-    "Azure/Sem título.md",
-    "Cloud/O que é um Dockerfile.md",
-    "Cloud/O que é PAAS, SAAS e IAAS.md"
+    "Azure/Sem título.md"
   ]
 }

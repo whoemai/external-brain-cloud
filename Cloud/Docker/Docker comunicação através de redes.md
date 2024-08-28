@@ -1,4 +1,4 @@
-#Docker #Cloud 
+#Docker  
 
 **Resumo sobre Docker: Comunicação através de Redes**
 

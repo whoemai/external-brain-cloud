@@ -1,4 +1,4 @@
-#Cloud #Docker 
+ #Docker 
 
 Vamos listar primeiramente o que podemos fazer. Nosso objetivo é configurar um Docker com dependências básicas para uma aplicação Java. 
 
