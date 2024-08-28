@@ -22,6 +22,8 @@
 - **`atop`**: Similar ao `top`, mas com mais detalhes sobre o uso de recursos do sistema.
 - **`systemctl status [serviço]`**: Verifica o status de um serviço específico, como `systemctl status mysql` para verificar o status do MySQL.
 - **`service [serviço] status`**: Outra forma de verificar o status de um serviço, como `service apache2 status` para o Apache.
+- - **`netstat -tuln`**: Mostra todas as portas abertas e serviços em execução
+- **`ss -tuln`**: Similar ao `netstat`, mas mais moderno e eficiente.
 
 ### Comandos de Gerenciamento de Pacotes:
 
@@ -55,7 +57,3 @@
 - **`systemctl status [serviço]`**: Verifica o status de um serviço específico, como `systemctl status mysql` para verificar o status do MySQL.
 - **`service [serviço] status`**: Outra forma de verificar o status de um serviço, como `service apache2 status` para o Apache.
 
-### Comandos para Verificar Conexões de Rede:
-
-- [**`netstat -tuln`**: Mostra todas as portas abertas e serviços em execução](https://www.hostinger.com.br/tutoriais/como-gerenciar-processos-no-linux-usando-linha-de-comando)[3](https://www.hostinger.com.br/tutoriais/como-gerenciar-processos-no-linux-usando-linha-de-comando).
-- **`ss -tuln`**: Similar ao `netstat`, mas mais moderno e eficiente.

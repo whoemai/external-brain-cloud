@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Guia rápido de comandos Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Guia rápido de comandos Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Guia rápido de comandos Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Guia rápido de comandos Docker.md"
+                "file": "Cloud/Guia rápido de comandos Linux.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "115ca9337f01c33a",
   "lastOpenFiles": [
     "Cloud/Docker/Guia rápido de comandos Docker.md",
-    "Cloud/Guia rápido de comandos Docker.md",
+    "Cloud/Guia rápido de comandos Linux.md",
     "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
     "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
