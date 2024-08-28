@@ -1,4 +1,4 @@
-#Docker #Cloud 
+#Docker 
 
 Um Dockerfile é um script que contém instruções para construir uma imagem Docker. Ele descreve os passos necessários para criar um ambiente isolado para a execução de uma aplicação.
 

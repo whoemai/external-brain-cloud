@@ -1,4 +1,4 @@
-#Cloud #Linux 
+#Linux 
 
 Para tornar qualquer arquivo executável, você precisa ajustar suas permissões usando o comando `chmod`:
 

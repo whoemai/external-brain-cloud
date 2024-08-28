@@ -1,4 +1,4 @@
-#Cloud #Linux 
+ #Linux 
 
 ### Comandos de Inicialização:
 

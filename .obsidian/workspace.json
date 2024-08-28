@@ -23,12 +23,8 @@
             "id": "115ca9337f01c33a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -61,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cloud",
+                "query": "tag:#Azure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,6 +154,13 @@
   },
   "active": "115ca9337f01c33a",
   "lastOpenFiles": [
+    "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
+    "Cloud/Linux/Tornando um Arquivo Executável.md",
+    "Cloud/O que é um Dockerfile.md",
+    "Cloud/O que é PAAS, SAAS e IAAS.md",
+    "Cloud/o arquivo go.yml no contexto de CI-CD.md",
+    "Cloud/Integração Contínua, pipelines e docker.md",
+    "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
     "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
@@ -178,9 +177,6 @@
     "AWS/Vinculando par de chaves SSH.md",
     "AWS/Criando uma secret key na AWS.md",
     "AWS/Criando um par de chaves AWS.md",
-    "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
-    "Cloud/Linux/Tornando um Arquivo Executável.md",
-    "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/Linux",
     "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Docker/Docker case/NTT",
@@ -196,9 +192,6 @@
     "Automações Cloud",
     "Cloud/Load balancer.canvas",
     "[AZ-900.md",
-    "[(46).md",
-    "2024-04-19.md",
-    "Cloud/Homologação vs Desenvolvimento.md",
-    "Azure/Sem título.md"
+    "[(46).md"
   ]
 }
