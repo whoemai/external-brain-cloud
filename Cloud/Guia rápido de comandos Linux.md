@@ -10,6 +10,7 @@
 
 - **`top`**: Exibe os processos em execução e o uso de recursos em tempo real.
 - **`htop`**: Uma versão mais amigável do `top`.
+- **`atop`**: Similar ao `top`, mas com mais detalhes sobre o uso de recursos do sistema.
 - **`df -h`**: Mostra o uso do espaço em disco de forma legível.
 - **`free -h`**: Exibe a quantidade de memória livre e usada no sistema.
 - **`uptime`**: Mostra há quanto tempo o sistema está em execução.
@@ -17,9 +18,6 @@
 - - **`ps aux`**: Lista todos os processos em execução no sistema, incluindo detalhes como o usuário, uso de CPU e memória, e o comando que iniciou o processo.
 - **`pgrep [nome_do_processo]`**: Procura processos pelo nome e retorna seus IDs.
 - **`pidof [nome_do_programa]`**: Retorna o PID de um programa específico.
-- **`top`**: Exibe uma lista dinâmica dos processos em execução, ordenados pelo uso de CPU.
-- **`htop`**: Uma versão mais amigável do `top`, com uma interface interativa.
-- **`atop`**: Similar ao `top`, mas com mais detalhes sobre o uso de recursos do sistema.
 - **`systemctl status [serviço]`**: Verifica o status de um serviço específico, como `systemctl status mysql` para verificar o status do MySQL.
 - **`service [serviço] status`**: Outra forma de verificar o status de um serviço, como `service apache2 status` para o Apache.
 - - **`netstat -tuln`**: Mostra todas as portas abertas e serviços em execução
