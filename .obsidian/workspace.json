@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Linux/Tornando um Arquivo Executável.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 200
   },
   "right": {
     "id": "d2e846f367dd8430",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Linux/Tornando um Arquivo Executável.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/Linux/Tornando um Arquivo Executável.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md"
+                "file": "Cloud/Linux/Tornando um Arquivo Executável.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   "active": "dee4b2fd8d15ae85",
   "lastOpenFiles": [
     "Cloud/Linux/Guia rápido de comandos Linux.md",
-    "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Linux/Tornando um Arquivo Executável.md",
+    "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
     "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/O que é um Dockerfile.md",
