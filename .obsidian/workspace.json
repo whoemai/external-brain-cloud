@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 214.5
   },
   "right": {
     "id": "d2e846f367dd8430",
@@ -162,16 +162,16 @@
   "active": "dee4b2fd8d15ae85",
   "lastOpenFiles": [
     "Cloud/Linux/Tornando um Arquivo Executável.md",
-    "Cloud/Linux/Guia rápido de comandos Linux.md",
+    "Cloud/Integração Contínua, pipelines e docker.md",
     "Cloud/Docker/Guia rápido de comandos Docker.md",
+    "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
+    "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
+    "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/O que é um Dockerfile.md",
     "Cloud/O que é PAAS, SAAS e IAAS.md",
     "Cloud/o arquivo go.yml no contexto de CI-CD.md",
-    "Cloud/Integração Contínua, pipelines e docker.md",
-    "Cloud/Docker/Docker comunicação através de redes.md",
-    "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
     "Cloud/CICD/ci-cd.drawio.png",
     "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
     "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
