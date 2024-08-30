@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94b4e23bc21ade40",
+            "id": "115ca9337f01c33a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
+                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "115ca9337f01c33a",
+            "id": "dee4b2fd8d15ae85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md"
+                "file": "Cloud/Docker/Guia rápido de comandos Docker.md"
               }
             }
           }
@@ -159,19 +159,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "115ca9337f01c33a",
+  "active": "dee4b2fd8d15ae85",
   "lastOpenFiles": [
+    "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/Docker/Guia rápido de comandos Docker.md",
-    "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/Linux/Tornando um Arquivo Executável.md",
+    "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
+    "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/O que é um Dockerfile.md",
     "Cloud/O que é PAAS, SAAS e IAAS.md",
     "Cloud/o arquivo go.yml no contexto de CI-CD.md",
     "Cloud/Integração Contínua, pipelines e docker.md",
-    "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
-    "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
     "Cloud/CICD/ci-cd.drawio.png",
     "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
     "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
