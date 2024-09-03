@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
+                "file": "Cloud/Cloud computing/Homologação vs Desenvolvimento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf1bb665c012e416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Cloud computing/O que é um Dockerfile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c03d79838beefd3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Cloud computing/O que é PAAS, SAAS e IAAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2560c10b59bc96af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/K8s/Comandos essenciais.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
+                "file": "Cloud/K8s/Comandos essenciais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
+                "file": "Cloud/K8s/Comandos essenciais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md"
+                "file": "Cloud/K8s/Comandos essenciais.md"
               }
             }
           }
@@ -159,19 +195,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dee4b2fd8d15ae85",
+  "active": "2560c10b59bc96af",
   "lastOpenFiles": [
+    "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
+    "Cloud/K8s/Comandos essenciais.md",
+    "Cloud/Cloud computing/O que é PAAS, SAAS e IAAS.md",
+    "Cloud/K8s",
+    "Cloud/Cloud computing/o arquivo go.yml no contexto de CI-CD.md",
+    "Cloud/Cloud computing/O que é um Dockerfile.md",
+    "Cloud/Cloud computing/Homologação vs Desenvolvimento.md",
+    "Cloud/Cloud computing",
     "Cloud/Linux/Tornando um Arquivo Executável.md",
-    "Cloud/Integração Contínua, pipelines e docker.md",
+    "Cloud/Linux/Guia rápido de comandos Linux.md",
+    "Cloud/Cloud computing/Integração Contínua, pipelines e docker.md",
     "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
-    "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
-    "Cloud/O que é um Dockerfile.md",
-    "Cloud/O que é PAAS, SAAS e IAAS.md",
-    "Cloud/o arquivo go.yml no contexto de CI-CD.md",
     "Cloud/CICD/ci-cd.drawio.png",
     "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
     "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
@@ -181,7 +222,6 @@
     "Azure/terraform/terraform azure linux/Variables Azure Linux .tfvars.md",
     "Azure/terraform/terraform azure linux/Provider Azure Linux.md",
     "Azure/terraform/terraform azure linux/Main Azure Linux.md",
-    "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
     "AWS/Vinculando par de chaves SSH.md",
     "AWS/Criando uma secret key na AWS.md",
     "AWS/Criando um par de chaves AWS.md",
@@ -195,10 +235,6 @@
     "Sem título.canvas",
     "Azure/az-900/Treinamento para AZ-900.md",
     "Cloud/CICD",
-    "Automações Cloud/script-start-stop-vm.ps1",
-    "Automações Cloud",
-    "Cloud/Load balancer.canvas",
-    "[AZ-900.md",
-    "[(46).md"
+    "Cloud/Cloud computing/Load balancer.canvas"
   ]
 }
