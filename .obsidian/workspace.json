@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
+                "file": "Cloud/K8s/Comandos essenciais.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
+                "file": "Cloud/K8s/Comandos essenciais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md",
+                "file": "Cloud/K8s/Comandos essenciais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Linux/Guia rápido de comandos Linux.md"
+                "file": "Cloud/K8s/Comandos essenciais.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "2560c10b59bc96af",
   "lastOpenFiles": [
+    "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/K8s/Comandos essenciais.md",
     "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
     "Cloud/Cloud computing/O que é PAAS, SAAS e IAAS.md",
@@ -206,7 +207,6 @@
     "Cloud/Cloud computing/Homologação vs Desenvolvimento.md",
     "Cloud/Cloud computing",
     "Cloud/Linux/Tornando um Arquivo Executável.md",
-    "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/Cloud computing/Integração Contínua, pipelines e docker.md",
     "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Docker/Docker comunicação através de redes.md",
