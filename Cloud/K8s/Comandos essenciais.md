@@ -41,4 +41,4 @@
 - **`kubectl delete [recurso] [nome_do_recurso]`**: Remove um recurso específico.
 
 ### Comandos de navegação
-- **`kubectl config use-context [nome_do_contexto]`**: Este comando perm que você alterne entre diferentes clusters ou namespaces conforme necessário
+- **`kubectl config use-context [nome_do_contexto]`**: Este comando permite que você alterne entre diferentes clusters ou namespaces conforme necessário.
