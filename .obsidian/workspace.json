@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/Comandos essenciais.md",
+                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/K8s/Comandos essenciais.md",
+                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/K8s/Comandos essenciais.md",
+                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/K8s/Comandos essenciais.md"
+                "file": "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md"
               }
             }
           }
@@ -198,12 +198,12 @@
   "active": "2560c10b59bc96af",
   "lastOpenFiles": [
     "Cloud/Docker/Guia rápido de comandos Docker.md",
+    "Cloud/K8s/Comandos essenciais.md",
     "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
     "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
     "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/Linux/Tornando um Arquivo Executável.md",
-    "Cloud/K8s/Comandos essenciais.md",
     "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
     "Cloud/Cloud computing/O que é PAAS, SAAS e IAAS.md",
     "Cloud/K8s",
