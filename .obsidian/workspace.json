@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/K8s/Comandos essenciais.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/K8s/Comandos essenciais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md",
+                "file": "Cloud/K8s/Comandos essenciais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Docker/Guia rápido de comandos Docker.md"
+                "file": "Cloud/K8s/Comandos essenciais.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "2560c10b59bc96af",
   "lastOpenFiles": [
+    "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
     "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
@@ -211,7 +212,6 @@
     "Cloud/Cloud computing/Homologação vs Desenvolvimento.md",
     "Cloud/Cloud computing",
     "Cloud/Cloud computing/Integração Contínua, pipelines e docker.md",
-    "Cloud/Docker/Guia rápido de comandos Docker.md",
     "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/CICD/ci-cd.drawio.png",
     "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
