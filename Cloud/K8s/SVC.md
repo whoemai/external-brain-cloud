@@ -10,3 +10,8 @@ Tendo isso em mente, se tentarmos acessar esse _pod_ a partir de fora do _cluste
 
 ![[Pasted image 20241023122637.png]]
 
+Compreendendo o que é um _ClusterIP_, fica mais fácil entender o conceito de _NodePort_. O _NodePort_ é um tipo de serviço que permite a comunicação com o mundo externo.
+
+Além disso, ele também opera dentro do próprio _cluster_ como um _ClusterIP_. Portanto, se você deseja que um _pod_ seja acessível tanto internamente no _cluster_ quanto externamente, você pode utilizar o _NodePort_, pois ele também funcionará como um _ClusterIP_.
+
+![[Pasted image 20241025130210.png]]
