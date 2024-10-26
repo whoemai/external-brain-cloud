@@ -15,3 +15,11 @@ Compreendendo o que é um _ClusterIP_, fica mais fácil entender o conceito de�
 Além disso, ele também opera dentro do próprio _cluster_ como um _ClusterIP_. Portanto, se você deseja que um _pod_ seja acessível tanto internamente no _cluster_ quanto externamente, você pode utilizar o _NodePort_, pois ele também funcionará como um _ClusterIP_.
 
 ![[Pasted image 20241025130210.png]]
+
+# Aprofundar conceitos
+
+- Labels são responsáveis por definir a relação Service x Pod
+- Um ClusterIP funciona apenas dentro do cluster
+- Um NodePort expõe Pods para dentro e fora do cluster
+- Um LoadBalancer também é um NodePort e ClusterIP
+- Um LoadBalancer é capaz de automaticamente utilizar um balanceador de carga de um cloud provider
