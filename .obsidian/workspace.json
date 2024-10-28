@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/SVC.md",
+                "file": "Cloud/K8s/ConfigMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SVC"
+              "title": "ConfigMap"
             }
           }
         ],
@@ -201,13 +201,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ffd1c00be926fc27",
+  "active": "e7ac8523097fea27",
   "lastOpenFiles": [
+    "Imagens/Pasted image 20241028143519.png",
+    "Cloud/K8s/SVC.md",
+    "Cloud/K8s/ConfigMap.md",
     "Imagens/Pasted image 20241025130210.png",
     "Imagens/Pasted image 20241023122637.png",
     "Imagens/Pasted image 20241023122251.png",
     "Imagens",
-    "Cloud/K8s/SVC.md",
     "Cloud/K8s/Comandos essenciais.md",
     "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/Docker/Guia rápido de comandos Docker.md",
@@ -234,7 +236,6 @@
     "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
     "Azure/terraform/terraform azure linux/Variables Azure Linux .tfvars.md",
     "Azure/terraform/terraform azure linux/Provider Azure Linux.md",
-    "Azure/terraform/terraform azure linux/Main Azure Linux.md",
     "Cloud/Linux",
     "Cloud/Docker/Docker case/NTT",
     "Cloud/Docker/Docker case",
