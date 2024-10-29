@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/ConfigMap.md",
+                "file": "Cloud/Redes/Conceitos básicos de redes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ConfigMap"
+              "title": "Conceitos básicos de redes"
             }
           }
         ],
@@ -201,12 +201,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e7ac8523097fea27",
+  "active": "ffd1c00be926fc27",
   "lastOpenFiles": [
+    "Cloud/K8s/ConfigMap.md",
+    "Cloud/Redes/Conceitos básicos de redes.md",
     "Cloud/Redes",
     "Imagens/Pasted image 20241028143519.png",
     "Cloud/K8s/SVC.md",
-    "Cloud/K8s/ConfigMap.md",
     "Imagens/Pasted image 20241025130210.png",
     "Imagens/Pasted image 20241023122637.png",
     "Imagens/Pasted image 20241023122251.png",
@@ -244,7 +245,6 @@
     "Cloud/Fluxograma/CNN",
     "Cloud/Fluxograma",
     "Sem título.canvas",
-    "Cloud/CICD",
     "Cloud/Cloud computing/Load balancer.canvas"
   ]
 }
