@@ -11,14 +11,12 @@
             "id": "5febe405d1e4d011",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cloud/Redes/ICMP.md",
-                "mode": "source",
-                "source": false
+                "file": "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf"
               },
-              "icon": "lucide-file",
-              "title": "ICMP"
+              "icon": "lucide-file-text",
+              "title": "Fluxo infra CNN"
             }
           }
         ]
@@ -164,8 +162,10 @@
   },
   "active": "5febe405d1e4d011",
   "lastOpenFiles": [
-    "Cloud/Redes/Conceitos básicos de redes.md",
+    "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
+    "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
     "Cloud/Redes/ICMP.md",
+    "Cloud/Redes/Conceitos básicos de redes.md",
     "Imagens/Pasted image 20241023122637.png",
     "Imagens/Pasted image 20241023122251.png",
     "Cloud/K8s/ConfigMap.md",
@@ -191,18 +191,15 @@
     "Cloud/Cloud computing/Homologação vs Desenvolvimento.md",
     "Cloud/Cloud computing",
     "Cloud/Cloud computing/Integração Contínua, pipelines e docker.md",
-    "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/CICD/ci-cd.drawio.png",
     "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
     "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
     "Azure/terraform/terraform azure windows/Main Azure Windows.md",
     "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
     "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
-    "Azure/terraform/terraform azure linux/Variables Azure Linux .tfvars.md",
     "Cloud/Linux",
     "Cloud/Docker/Docker case/NTT",
     "Cloud/Docker/Docker case",
-    "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
     "Cloud/Fluxograma/CNN",
     "Cloud/Fluxograma",
     "Sem título.canvas",
