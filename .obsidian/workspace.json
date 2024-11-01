@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Linux/Tornando um Arquivo Executável.md",
+                "file": "Cloud/Redes/IP público e IP privado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tornando um Arquivo Executável"
+              "title": "IP público e IP privado"
             }
           }
         ]
@@ -164,14 +164,17 @@
   },
   "active": "5febe405d1e4d011",
   "lastOpenFiles": [
+    "Cloud/Redes/ICMP.md",
+    "Cloud/Redes/IP público e IP privado.md",
+    "Cloud/Redes/Conceitos básicos de redes.md",
+    "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
+    "Cloud/Linux/Tornando um Arquivo Executável.md",
     "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/K8s/SVC.md",
     "Cloud/K8s/ConfigMap.md",
     "Cloud/K8s/Comandos essenciais.md",
     "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
-    "Cloud/Redes/ICMP.md",
-    "Cloud/Redes/Conceitos básicos de redes.md",
     "Imagens/Pasted image 20241023122637.png",
     "Imagens/Pasted image 20241023122251.png",
     "Cloud/Redes",
@@ -181,10 +184,8 @@
     "Cloud/Docker/Guia rápido de comandos Docker.md",
     "AWS/Criando um par de chaves AWS.md",
     "AWS/Criando uma secret key na AWS.md",
-    "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
     "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
-    "Cloud/Linux/Tornando um Arquivo Executável.md",
     "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
     "Cloud/Cloud computing/O que é PAAS, SAAS e IAAS.md",
     "Cloud/K8s",
