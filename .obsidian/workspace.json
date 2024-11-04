@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Redes/IP público e IP privado.md",
+                "file": "Cloud/K8s/ReplicaSet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP público e IP privado"
+              "title": "ReplicaSet"
             }
           }
         ]
@@ -164,15 +164,16 @@
   },
   "active": "5febe405d1e4d011",
   "lastOpenFiles": [
-    "Cloud/Redes/ICMP.md",
+    "Cloud/K8s/SVC.md",
+    "Cloud/K8s/ReplicaSet.md",
+    "Cloud/K8s/ConfigMap.md",
+    "Cloud/K8s/Comandos essenciais.md",
     "Cloud/Redes/IP público e IP privado.md",
     "Cloud/Redes/Conceitos básicos de redes.md",
+    "Cloud/Redes/ICMP.md",
     "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
     "Cloud/Linux/Tornando um Arquivo Executável.md",
     "Cloud/Linux/Guia rápido de comandos Linux.md",
-    "Cloud/K8s/SVC.md",
-    "Cloud/K8s/ConfigMap.md",
-    "Cloud/K8s/Comandos essenciais.md",
     "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
     "Imagens/Pasted image 20241023122637.png",
@@ -199,7 +200,6 @@
     "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
     "Azure/terraform/terraform azure windows/Main Azure Windows.md",
     "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
-    "Azure/terraform/terraform azure linux/Variáveis Azure Linux.md",
     "Cloud/Linux",
     "Cloud/Docker/Docker case/NTT",
     "Cloud/Docker/Docker case",
