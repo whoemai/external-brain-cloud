@@ -162,8 +162,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5febe405d1e4d011",
+  "active": "e7ac8523097fea27",
   "lastOpenFiles": [
+    "Imagens/Pasted image 20241104162542.png",
+    "Imagens/Pasted image 20241104162447.png",
     "Cloud/K8s/SVC.md",
     "Cloud/K8s/ReplicaSet.md",
     "Cloud/K8s/ConfigMap.md",
@@ -199,7 +201,6 @@
     "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
     "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
     "Azure/terraform/terraform azure windows/Main Azure Windows.md",
-    "Azure/terraform/terraform azure windows/Backend Azure Windows.md",
     "Cloud/Linux",
     "Cloud/Docker/Docker case/NTT",
     "Cloud/Docker/Docker case",

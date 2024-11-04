@@ -2,6 +2,9 @@
 
 Um **ReplicaSet** no Kubernetes é um controlador que garante que um número especificado de réplicas de um pod esteja sempre em execução. Ele é usado principalmente para garantir a alta disponibilidade e a escalabilidade horizontal dos aplicativos.
 
+![[Pasted image 20241104162447.png]]
+
+![[Pasted image 20241104162542.png]]
 ### Como Funciona
 
 - **Definição**: Um ReplicaSet é definido por um seletor que identifica quais pods ele gerencia, um número de réplicas que devem ser mantidas, e um template de pod que especifica as configurações dos novos pods a serem criados.
