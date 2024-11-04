@@ -39,6 +39,7 @@ spec:
         - containerPort: 80
 ```
 
+## Benefícios 
 ### 1. **Atualizações Declarativas**
 
 [Os Deployments permitem realizar atualizações de forma controlada e segura, como as atualizações rolling, onde os pods são atualizados gradualmente para minimizar o tempo de inatividade](https://www.youtube.com/watch?v=y_vy9NVeCzo)[1](https://www.youtube.com/watch?v=y_vy9NVeCzo).
