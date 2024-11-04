@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/Deployments.md",
+                "file": "Cloud/K8s/Projeto Alura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deployments"
+              "title": "Projeto Alura"
             }
           }
         ]
@@ -164,9 +164,11 @@
   },
   "active": "5febe405d1e4d011",
   "lastOpenFiles": [
+    "Pasted image 20241104175739.png",
+    "Cloud/K8s/Deployments.md",
+    "Cloud/K8s/Projeto Alura.md",
     "Imagens/Pasted image 20241104163133.png",
     "Cloud/K8s/ReplicaSet.md",
-    "Cloud/K8s/Deployments.md",
     "Imagens/Pasted image 20241104162542.png",
     "Imagens/Pasted image 20241104162447.png",
     "Cloud/K8s/SVC.md",
@@ -201,7 +203,6 @@
     "Cloud/Cloud computing/Integração Contínua, pipelines e docker.md",
     "Cloud/CICD/ci-cd.drawio.png",
     "Azure/terraform/terraform azure windows/Variables Azure  Windows.md",
-    "Azure/terraform/terraform azure windows/Provider Azure Windows.md",
     "Cloud/Linux",
     "Cloud/Docker/Docker case/NTT",
     "Cloud/Docker/Docker case",
