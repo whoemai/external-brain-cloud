@@ -70,8 +70,4 @@
 ### Considerações Importantes
 
 - [**Modos de Acesso**: O Azure Disk só pode ser montado com o modo de acesso `ReadWriteOnce`, o que significa que ele estará disponível para um único nó no AKS](https://learn.microsoft.com/en-us/azure/aks/azure-csi-disk-storage-provision)[1](https://learn.microsoft.com/en-us/azure/aks/azure-csi-disk-storage-provision).
-- [**Limites de Volume**: O driver CSI do Azure Disk tem um limite de volume por nó, que varia conforme o tamanho do nó ou pool de nós](https://learn.microsoft.com/en-us/azure/aks/azure-csi-disk-storage-provision)[1](https://learn.microsoft.com/en-us/azure/aks/azure-csi-disk-storage-provision).
-
-Esses passos devem te ajudar a configurar Persistent Volumes no Kubernetes usando discos do Azure. Se precisar de mais detalhes ou ajuda, estou aqui para ajudar! 😊
-
-[](https://learn.microsoft.com/en-us/azure/aks/azure-csi-disk-storage-provision)[1](https://learn.microsoft.com/en-us/azure/aks/azure-csi-disk-storage-provision):
+- [**Limites de Volume**: O driver CSI do Azure Disk tem um limite de volume por nó, que varia conforme o tamanho do nó ou pool de nós](https://learn.microsoft.com/en-us/azure/aks/azure-csi-disk-storage-provision)[1](https://learn.microsoft.com/en-us/azure/aks/azure-csi-disk-storage-provision)
