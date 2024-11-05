@@ -44,3 +44,6 @@ Neste exemplo:
 - **volumes**: Define o volume `emptyDir` chamado `exemplo-volume`.
 
 Este volume `emptyDir` é temporário e será excluído quando o pod for deletado. Se precisar de um volume persistente, você pode usar um `PersistentVolume` e um `PersistentVolumeClaim`.
+
+![[Pasted image 20241105161620.png]]
+![[Pasted image 20241105161711.png]]
