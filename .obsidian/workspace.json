@@ -25,14 +25,12 @@
             "id": "77b17b85cf8f8b49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cloud/K8s/Volumes - Persistindo dados com volumes.md",
-                "mode": "source",
-                "source": false
+                "file": "Imagens/Pasted image 20241028143519.png"
               },
-              "icon": "lucide-file",
-              "title": "Volumes - Persistindo dados com volumes"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241028143519"
             }
           }
         ],
@@ -92,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 241.5110321044922
   },
   "right": {
     "id": "d2e846f367dd8430",
@@ -179,20 +177,23 @@
   },
   "active": "77b17b85cf8f8b49",
   "lastOpenFiles": [
-    "Pasted image 20241105161711.png",
+    "Imagens/Pasted image 20241104162447.png",
+    "Imagens/Pasted image 20241028143519.png",
+    "Imagens/Pasted image 20241025130210.png",
+    "Imagens/Pasted image 20241023122637.png",
+    "Imagens/Pasted image 20241023122251.png",
+    "Imagens/Pasted image 20241105161212.png",
+    "Imagens/Pasted image 20241105161219.png",
+    "Imagens/Pasted image 20241104175739.png",
+    "Imagens/Pasted image 20241105161620.png",
+    "Imagens/Pasted image 20241104162542.png",
+    "Imagens/Pasted image 20241104163133.png",
+    "Cloud/K8s/Volumes - Persistindo dados com volumes.md",
     "Cloud/K8s/Projeto Alura.md",
     "Cloud/K8s/Service - SVC.md",
     "Cloud/K8s/ReplicaSet.md",
     "Cloud/K8s/Deployments.md",
     "Cloud/K8s/ConfigMap.md",
-    "Cloud/K8s/Volumes - Persistindo dados com volumes.md",
-    "Pasted image 20241105161620.png",
-    "Pasted image 20241105161219.png",
-    "Pasted image 20241105161212.png",
-    "Pasted image 20241104175739.png",
-    "Imagens/Pasted image 20241104163133.png",
-    "Imagens/Pasted image 20241104162542.png",
-    "Imagens/Pasted image 20241104162447.png",
     "Cloud/K8s/Comandos essenciais.md",
     "Cloud/Redes/IP público e IP privado.md",
     "Cloud/Redes/Conceitos básicos de redes.md",
@@ -202,10 +203,7 @@
     "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/Fluxograma/CNN/Diagrama de fluxo de trabalho CNN.md",
     "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
-    "Imagens/Pasted image 20241023122637.png",
-    "Imagens/Pasted image 20241023122251.png",
     "Cloud/Redes",
-    "Imagens/Pasted image 20241028143519.png",
     "Imagens",
     "Cloud/Docker/Guia rápido de comandos Docker.md",
     "AWS/Criando um par de chaves AWS.md",
