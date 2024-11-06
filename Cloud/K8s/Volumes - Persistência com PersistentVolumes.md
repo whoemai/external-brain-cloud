@@ -1,6 +1,6 @@
 #kubernetes 
 
-![[Pasted image 20241105162829.png]]
+![[Pasted image 20241106160847.png]]
 ### Passos para usar Persistent Volumes com Azure Disks no AKS
 
 1. **Criar uma Storage Class**:
