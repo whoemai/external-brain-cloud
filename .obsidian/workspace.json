@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/Projeto Alura.md",
+                "file": "Cloud/K8s/Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projeto Alura"
+              "title": "Sem título"
             }
           }
         ],
@@ -191,6 +191,9 @@
   },
   "active": "246bcaa44f2d948b",
   "lastOpenFiles": [
+    "Pasted image 20241107151700.png",
+    "Cloud/K8s/Projeto Alura.md",
+    "Cloud/K8s/Sem título.md",
     "Cloud/K8s/Deployments.md",
     "Cloud/K8s/ConfigMap.md",
     "Imagens/Pasted image 20241105162829.png",
@@ -201,7 +204,6 @@
     "Cloud/K8s/Volumes - Persistindo dados com volumes.md",
     "Cloud/K8s/Service - SVC.md",
     "Cloud/K8s/Comandos essenciais.md",
-    "Cloud/K8s/Projeto Alura.md",
     "Cloud/K8s/ReplicaSet.md",
     "Imagens/Pasted image 20241106160847.png",
     "Imagens/Pasted image 20241028143519.png",
@@ -229,7 +231,6 @@
     "Cloud/Cloud computing/O que é PAAS, SAAS e IAAS.md",
     "Cloud/K8s",
     "Cloud/Cloud computing/o arquivo go.yml no contexto de CI-CD.md",
-    "Cloud/Cloud computing/O que é um Dockerfile.md",
     "Cloud/Cloud computing",
     "Cloud/Linux",
     "Cloud/Docker/Docker case/NTT",
