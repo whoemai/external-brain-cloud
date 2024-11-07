@@ -3,7 +3,7 @@
 ![[Pasted image 20241107151700.png]]
 ## O que é um StatefulSet no Kubernetes?
 
-Um **StatefulSet** é um objeto de API do Kubernetes usado para gerenciar aplicativos com estado. Ele é ideal para aplicações que precisam de armazenamento persistente ou uma identidade de rede estável e única. [Diferente de um [[Deployments], que gerencia pods intercambiáveis, um StatefulSet mantém uma identidade fixa para cada pod, o que é crucial para aplicativos que dependem de dados persistentes](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)[1](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/).
+Um **StatefulSet** é um objeto de API do Kubernetes usado para gerenciar aplicativos com estado. Ele é ideal para aplicações que precisam de armazenamento persistente ou uma identidade de rede estável e única. [Diferente de um Deployments, que gerencia pods intercambiáveis, um StatefulSet mantém uma identidade fixa para cada pod, o que é crucial para aplicativos que dependem de dados persistentes](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)[1](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/).
 
 ## Quando usar um StatefulSet em vez de um Deployment?
 
