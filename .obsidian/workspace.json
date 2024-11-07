@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/Volumes - Persistência com PersistentVolumes.md",
+                "file": "Cloud/K8s/Storage Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volumes - Persistência com PersistentVolumes"
+              "title": "Storage Classes"
             }
           }
         ],
@@ -179,6 +179,9 @@
   },
   "active": "77b17b85cf8f8b49",
   "lastOpenFiles": [
+    "Pasted image 20241107100207.png",
+    "Cloud/K8s/Volumes - Persistência com PersistentVolumes.md",
+    "Cloud/K8s/Storage Classes.md",
     "Cloud/K8s/Volumes - Persistindo dados com volumes.md",
     "Cloud/K8s/Service - SVC.md",
     "Cloud/K8s/Comandos essenciais.md",
@@ -186,7 +189,6 @@
     "Cloud/K8s/Deployments.md",
     "Cloud/K8s/Projeto Alura.md",
     "Cloud/K8s/ReplicaSet.md",
-    "Cloud/K8s/Volumes - Persistência com PersistentVolumes.md",
     "Pasted image 20241106160847.png",
     "Pasted image 20241105162829.png",
     "Imagens/Pasted image 20241028143519.png",
@@ -217,7 +219,6 @@
     "Cloud/K8s",
     "Cloud/Cloud computing/o arquivo go.yml no contexto de CI-CD.md",
     "Cloud/Cloud computing/O que é um Dockerfile.md",
-    "Cloud/Cloud computing/Homologação vs Desenvolvimento.md",
     "Cloud/Cloud computing",
     "Cloud/Linux",
     "Cloud/Docker/Docker case/NTT",
