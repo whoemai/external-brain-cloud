@@ -30,5 +30,3 @@ volumeBindingMode: Immediate
 ```
 
 [Este exemplo cria um StorageClass chamado `azure-disk-standard` que utiliza discos padrão do Azure (Standard_LRS) e permite a expansão do volume](https://kubernetes.io/docs/concepts/storage/storage-classes/)[1](https://kubernetes.io/docs/concepts/storage/storage-classes/).
-
-Se precisar de mais alguma coisa, estou aqui para ajudar!
