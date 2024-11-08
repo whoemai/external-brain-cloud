@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/StatefulSet.md",
+                "file": "Cloud/K8s/Volumes - Persistindo dados com volumes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "StatefulSet"
+              "title": "Volumes - Persistindo dados com volumes"
             }
           }
         ],
@@ -191,20 +191,20 @@
   },
   "active": "246bcaa44f2d948b",
   "lastOpenFiles": [
-    "Cloud/K8s/Deployments.md",
+    "Cloud/K8s/Volumes - Persistência com PersistentVolumes.md",
+    "Cloud/K8s/Storage Classes.md",
     "Cloud/K8s/StatefulSet.md",
-    "Pasted image 20241107151700.png",
+    "Cloud/K8s/Service - SVC.md",
+    "Cloud/K8s/ReplicaSet.md",
     "Cloud/K8s/Projeto Alura.md",
+    "Cloud/K8s/Deployments.md",
     "Cloud/K8s/ConfigMap.md",
+    "Cloud/K8s/Comandos essenciais.md",
+    "Pasted image 20241107151700.png",
     "Imagens/Pasted image 20241105162829.png",
     "Imagens/Pasted image 20241107101558.png",
-    "Cloud/K8s/Storage Classes.md",
     "Imagens/Pasted image 20241107100207.png",
-    "Cloud/K8s/Volumes - Persistência com PersistentVolumes.md",
     "Cloud/K8s/Volumes - Persistindo dados com volumes.md",
-    "Cloud/K8s/Service - SVC.md",
-    "Cloud/K8s/Comandos essenciais.md",
-    "Cloud/K8s/ReplicaSet.md",
     "Imagens/Pasted image 20241106160847.png",
     "Imagens/Pasted image 20241028143519.png",
     "Imagens/Pasted image 20241104162447.png",
