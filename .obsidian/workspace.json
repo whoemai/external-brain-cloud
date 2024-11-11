@@ -11,14 +11,12 @@
             "id": "dded40a88d061384",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cloud/K8s/Readiness Probes.md",
-                "mode": "source",
-                "source": false
+                "file": "Cloud/K8s/Projeto/Spaiglass.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Readiness Probes"
+              "icon": "lucide-image",
+              "title": "Spaiglass"
             }
           }
         ]
@@ -164,22 +162,22 @@
   },
   "active": "dded40a88d061384",
   "lastOpenFiles": [
-    "Cloud/K8s/Liveness Probes.md",
-    "Cloud/K8s/Readiness Probes.md",
-    "Cloud/K8s/Projeto/Spaiglass.jpg",
-    "Cloud/K8s/Projeto/Projeto Alura.md",
-    "Cloud/K8s/Storage Classes.md",
-    "Cloud/K8s/Projeto",
-    "Cloud/K8s/StatefulSet.md",
-    "Cloud/K8s/Service - SVC.md",
-    "Cloud/K8s/Node Master e Node Worker.md",
-    "Cloud/K8s/Volumes - PV AKS.md",
-    "Cloud/K8s/Volumes - PV.md",
     "Cloud/K8s/Deployments.md",
-    "Imagens/Pasted image 20241107101558.png",
-    "Cloud/K8s/ReplicaSet.md",
     "Cloud/K8s/ConfigMap.md",
     "Cloud/K8s/Comandos essenciais.md",
+    "Cloud/K8s/Liveness Probes.md",
+    "Cloud/K8s/Node Master e Node Worker.md",
+    "Cloud/K8s/Readiness Probes.md",
+    "Cloud/K8s/ReplicaSet.md",
+    "Cloud/K8s/Service - SVC.md",
+    "Cloud/K8s/StatefulSet.md",
+    "Cloud/K8s/Storage Classes.md",
+    "Cloud/K8s/Volumes - PV AKS.md",
+    "Cloud/K8s/Volumes - PV.md",
+    "Cloud/K8s/Projeto/Spaiglass.jpg",
+    "Cloud/K8s/Projeto/Projeto Alura.md",
+    "Cloud/K8s/Projeto",
+    "Imagens/Pasted image 20241107101558.png",
     "Pasted image 20241107151700.png",
     "Imagens/Pasted image 20241105162829.png",
     "Imagens/Pasted image 20241107100207.png",
