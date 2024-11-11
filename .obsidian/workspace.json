@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/Liveness Probes.md",
+                "file": "Cloud/K8s/Readiness Probes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liveness Probes"
+              "title": "Readiness Probes"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "dded40a88d061384",
   "lastOpenFiles": [
-    "Cloud/K8s/Projeto/Spaiglass.jpg",
     "Cloud/K8s/Liveness Probes.md",
+    "Cloud/K8s/Readiness Probes.md",
+    "Cloud/K8s/Projeto/Spaiglass.jpg",
     "Cloud/K8s/Projeto/Projeto Alura.md",
     "Cloud/K8s/Storage Classes.md",
     "Cloud/K8s/Projeto",
