@@ -11,14 +11,12 @@
             "id": "dded40a88d061384",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cloud/K8s/Storage Classes.md",
-                "mode": "source",
-                "source": false
+                "file": "Cloud/K8s/Projeto/Diagrama sem nome.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Storage Classes"
+              "icon": "lucide-image",
+              "title": "Diagrama sem nome"
             }
           }
         ]
@@ -164,14 +162,16 @@
   },
   "active": "dded40a88d061384",
   "lastOpenFiles": [
+    "Cloud/K8s/Storage Classes.md",
+    "Cloud/K8s/Projeto/Diagrama sem nome.jpg",
+    "Cloud/K8s/Projeto",
     "Cloud/K8s/StatefulSet.md",
     "Cloud/K8s/Service - SVC.md",
     "Cloud/K8s/Node Master e Node Worker.md",
     "Cloud/K8s/Volumes - PV AKS.md",
     "Cloud/K8s/Volumes - PV.md",
-    "Cloud/K8s/Projeto Alura.md",
+    "Cloud/K8s/Projeto/Projeto Alura.md",
     "Cloud/K8s/Deployments.md",
-    "Cloud/K8s/Storage Classes.md",
     "Imagens/Pasted image 20241107101558.png",
     "Cloud/K8s/ReplicaSet.md",
     "Cloud/K8s/ConfigMap.md",
@@ -184,7 +184,6 @@
     "Imagens/Pasted image 20241104162447.png",
     "Imagens/Pasted image 20241025130210.png",
     "Imagens/Pasted image 20241023122637.png",
-    "Imagens/Pasted image 20241023122251.png",
     "Cloud/Redes/IP público e IP privado.md",
     "Cloud/Redes/Conceitos básicos de redes.md",
     "Cloud/Redes/ICMP.md",
@@ -208,7 +207,6 @@
     "Cloud/Docker/Docker case/NTT",
     "Cloud/Docker/Docker case",
     "Cloud/Fluxograma/CNN",
-    "Cloud/Fluxograma",
     "Sem título.canvas",
     "Cloud/Cloud computing/Load balancer.canvas"
   ]
