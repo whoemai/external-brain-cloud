@@ -11,12 +11,14 @@
             "id": "dded40a88d061384",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/Projeto/Spaiglass.jpg"
+                "file": "Cloud/K8s/HPA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Spaiglass"
+              "icon": "lucide-file",
+              "title": "HPA"
             }
           }
         ]
@@ -162,9 +164,10 @@
   },
   "active": "dded40a88d061384",
   "lastOpenFiles": [
-    "Cloud/K8s/Deployments.md",
-    "Cloud/K8s/ConfigMap.md",
     "Cloud/K8s/Comandos essenciais.md",
+    "Cloud/K8s/HPA.md",
+    "Cloud/K8s/ConfigMap.md",
+    "Cloud/K8s/Deployments.md",
     "Cloud/K8s/Liveness Probes.md",
     "Cloud/K8s/Node Master e Node Worker.md",
     "Cloud/K8s/Readiness Probes.md",
@@ -172,8 +175,8 @@
     "Cloud/K8s/Service - SVC.md",
     "Cloud/K8s/StatefulSet.md",
     "Cloud/K8s/Storage Classes.md",
-    "Cloud/K8s/Volumes - PV AKS.md",
     "Cloud/K8s/Volumes - PV.md",
+    "Cloud/K8s/Volumes - PV AKS.md",
     "Cloud/K8s/Projeto/Spaiglass.jpg",
     "Cloud/K8s/Projeto/Projeto Alura.md",
     "Cloud/K8s/Projeto",
@@ -201,7 +204,6 @@
     "AWS/Criando uma secret key na AWS.md",
     "Cloud/Docker/Docker comunicação através de redes.md",
     "Cloud/Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
-    "Azure/terraform/terraform azure linux/Backend Azure Linux.md",
     "Cloud/K8s",
     "Cloud/Cloud computing",
     "Cloud/Linux",
