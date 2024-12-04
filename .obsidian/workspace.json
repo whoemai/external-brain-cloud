@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/Comandos essenciais.md",
+                "file": "Cloud/K8s/HPA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos essenciais"
+              "title": "HPA"
             }
           }
         ],
@@ -193,8 +193,8 @@
   },
   "active": "f68dab8174b93974",
   "lastOpenFiles": [
-    "Cloud/K8s/ConfigMap.md",
     "Cloud/K8s/Comandos essenciais.md",
+    "Cloud/K8s/ConfigMap.md",
     "Cloud/K8s/Projeto/Spaiglass.jpg",
     "Cloud/K8s/Projeto/Projeto Alura.md",
     "Cloud/K8s/Testes/Dashboard minikube.md",
