@@ -191,8 +191,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f68dab8174b93974",
+  "active": "e7ac8523097fea27",
   "lastOpenFiles": [
+    "Cloud/K8s/Comandos",
     "Cloud/K8s/StatefulSet.md",
     "Cloud/K8s/HPA.md",
     "Cloud/K8s/Comandos essenciais.md",
