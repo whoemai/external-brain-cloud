@@ -1,6 +1,6 @@
 #kubernetes 
 
-**Por que eu vou querer ter um Ingress Controller?**
+## **Por que eu vou querer ter um Ingress Controller?**
 
 Ter um Ingress Controller no meu cluster é essencial para permitir que meus serviços sejam acessados externamente. Vale lembrar que "externamente" não significa necessariamente expor para a internet, mas sim permitir o acesso a partir de fora do cluster.
 
@@ -54,4 +54,38 @@ spec:
 
 Com esta configuração, você está habilitando o suporte a TLS e roteamento de tráfego HTTP para seu serviço em um cluster AKS.
 
-**Ingress VS Load**
+## **Ingress VS Loadbalancer**
+
+Ótima pergunta! A decisão entre usar um Ingress Controller ou um LoadBalancer depende de vários fatores. Vamos analisar os principais pontos a serem considerados:
+
+### 1. **Complexidade do Roteamento:**
+- **Ingress Controller:** Ideal se você precisa de roteamento complexo, como direcionar solicitações para diferentes serviços com base no caminho da URL ou host.
+- **LoadBalancer:** É mais simples e direto, recomendado para expor um único serviço de forma externa sem regras de roteamento complexas.
+
+### 2. **Custo:**
+- **Ingress Controller:** Em ambientes na nuvem, utilizar um Ingress Controller pode ser mais econômico, pois você pode gerenciar múltiplos serviços através de um único IP público, economizando recursos.
+- **LoadBalancer:** Cada serviço exposto pode precisar de seu próprio LoadBalancer, o que pode aumentar os custos.
+
+### 3. **Certificados TLS:**
+- **Ingress Controller:** Facilita a gestão de certificados TLS para vários serviços. Você pode centralizar a configuração e renovação dos certificados.
+- **LoadBalancer:** Pode ser mais trabalhoso gerenciar certificados TLS individualmente para cada LoadBalancer.
+
+### 4. **Gerenciamento e Manutenção:**
+- **Ingress Controller:** Oferece um ponto centralizado para gerenciar o tráfego de entrada, o que pode simplificar o gerenciamento em grandes ambientes de produção.
+- **LoadBalancer:** Pode ser mais simples de configurar inicialmente, mas pode se tornar complicado conforme o número de serviços cresce.
+
+### 5. **Escalabilidade:**
+- **Ingress Controller:** Pode lidar com um grande número de serviços e regras de roteamento sem necessidade de adicionar novos LoadBalancers.
+- **LoadBalancer:** Pode exigir a criação de múltiplos LoadBalancers para escalar diferentes serviços, aumentando a complexidade da infraestrutura.
+
+### 6. **Segurança:**
+- **Ingress Controller:** Permite adicionar regras de segurança, como autenticação, autorização e limitação de taxas diretamente no controlador.
+- **LoadBalancer:** Segurança pode ser configurada, mas geralmente requer configurações adicionais em cada serviço.
+
+### 7. **Características do Provedor de Nuvem:**
+- **Ingress Controller:** Alguns provedores de nuvem oferecem controladores de Ingress gerenciados que se integram bem com seus serviços.
+- **LoadBalancer:** Todos os principais provedores de nuvem oferecem LoadBalancers nativos que são fáceis de usar e bem integrados com outros serviços da nuvem.
+
+---
+
+Em resumo, se você precisa de um gerenciamento centralizado e flexível para vários serviços com roteamento complexo e melhor gerenciamento de certificados, o Ingress Controller é a melhor escolha. Se você precisa de uma solução simples e direta para expor um ou poucos serviços, o LoadBalancer pode ser suficiente.

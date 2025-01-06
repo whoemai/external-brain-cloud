@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/Ingress Controller.md",
+                "file": "Cloud/K8s/Testes/Dashboard minikube.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ingress Controller"
+              "title": "Dashboard minikube"
             }
           }
         ],
@@ -193,6 +193,8 @@
   },
   "active": "f68dab8174b93974",
   "lastOpenFiles": [
+    "Cloud/K8s/Job.md",
+    "Cloud/K8s/Ingress Controller.md",
     "Cloud/K8s/ConfigMap.md",
     "Cloud/Cloud computing/O que é um Dockerfile.md",
     "Cloud/Cloud computing/O que é PAAS, SAAS e IAAS.md",
@@ -200,7 +202,6 @@
     "Cloud/Cloud computing/Load balancer.canvas",
     "Cloud/Cloud computing/Integração Contínua, pipelines e docker.md",
     "Cloud/Cloud computing/Homologação vs Desenvolvimento.md",
-    "Cloud/K8s/Ingress Controller.md",
     "Cloud/K8s/Readiness Probes.md",
     "Cloud/K8s/Comandos/Comandos essenciais kubectl.md",
     "Cloud/K8s/Comandos/Comandos AZ CLI k8s.md",
@@ -210,7 +211,6 @@
     "Cloud/Linux/Tornando um Arquivo Executável.md",
     "Cloud/Linux/Guia rápido de comandos Linux.md",
     "Cloud/K8s/Storage Classes.md",
-    "Cloud/K8s/Job.md",
     "Cloud/K8s/HPA.md",
     "Cloud/K8s/Deployments.md",
     "Cloud/K8s/Comandos",
