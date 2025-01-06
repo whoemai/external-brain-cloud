@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/K8s/Readiness Probes.md",
+                "file": "Cloud/K8s/Ingress Controller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readiness Probes"
+              "title": "Ingress Controller"
             }
           }
         ],
@@ -193,6 +193,15 @@
   },
   "active": "f68dab8174b93974",
   "lastOpenFiles": [
+    "Cloud/K8s/ConfigMap.md",
+    "Cloud/Cloud computing/O que é um Dockerfile.md",
+    "Cloud/Cloud computing/O que é PAAS, SAAS e IAAS.md",
+    "Cloud/Cloud computing/o arquivo go.yml no contexto de CI-CD.md",
+    "Cloud/Cloud computing/Load balancer.canvas",
+    "Cloud/Cloud computing/Integração Contínua, pipelines e docker.md",
+    "Cloud/Cloud computing/Homologação vs Desenvolvimento.md",
+    "Cloud/K8s/Ingress Controller.md",
+    "Cloud/K8s/Readiness Probes.md",
     "Cloud/K8s/Comandos/Comandos essenciais kubectl.md",
     "Cloud/K8s/Comandos/Comandos AZ CLI k8s.md",
     "Cloud/K8s/Control Plane.md",
@@ -204,7 +213,6 @@
     "Cloud/K8s/Job.md",
     "Cloud/K8s/HPA.md",
     "Cloud/K8s/Deployments.md",
-    "Cloud/K8s/ConfigMap.md",
     "Cloud/K8s/Comandos",
     "Cloud/K8s/StatefulSet.md",
     "Cloud/K8s/Projeto/Spaiglass.jpg",
@@ -215,9 +223,6 @@
     "Cloud/K8s/Service - SVC.md",
     "Cloud/K8s/Volumes - PV.md",
     "Cloud/K8s/Volumes - PV AKS.md",
-    "Cloud/K8s/ReplicaSet.md",
-    "Cloud/K8s/Readiness Probes.md",
-    "Cloud/K8s/Node Master e Node Worker.md",
     "Imagens/Pasted image 20241023122251.png",
     "Imagens/Pasted image 20241023122637.png",
     "Imagens/Pasted image 20241025130210.png",
@@ -228,10 +233,6 @@
     "Imagens/Pasted image 20241104175739.png",
     "Imagens/Pasted image 20241105161212.png",
     "Cloud/K8s/Projeto",
-    "Cloud/Redes/IP público e IP privado.md",
-    "Cloud/Redes/Conceitos básicos de redes.md",
-    "Cloud/Redes/ICMP.md",
-    "Cloud/Docker/Docker case/NTT/Situação de uso de docker-java.md",
     "Cloud/Fluxograma/CNN/Fluxo infra CNN.pdf",
     "Cloud/Redes",
     "Imagens",
@@ -239,7 +240,6 @@
     "Cloud/Cloud computing",
     "Cloud/Linux",
     "Cloud/Docker/Docker case/NTT",
-    "Sem título.canvas",
-    "Cloud/Cloud computing/Load balancer.canvas"
+    "Sem título.canvas"
   ]
 }
