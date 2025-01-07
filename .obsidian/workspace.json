@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Nodes/Node Master e Node Worker.md",
+                "file": "K8s/Nodes/Node Worker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node Master e Node Worker"
+              "title": "Node Worker"
             }
           }
         ],
