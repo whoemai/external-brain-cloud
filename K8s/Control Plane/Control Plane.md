@@ -4,7 +4,7 @@
 **O que é:**
 **Funções do Control Plane:**
 1. **API Server**: Serve como ponto de comunicação central para comandos do Kubernetes, recebendo e validando solicitações.
-2. **etcd**: Armazena todas as informações de configuração e estado do cluster em um banco de dados key-value distribuído.
+2. **etcd**: Armazena todas as informações de configuração e estado do cluster em um banco de dados chave-valor distribuído.
 3. **Scheduler**: Responsável por atribuir pods a nodes específicos, decidindo onde cada aplicação deve rodar com base em fatores como recursos disponíveis.
 4. **Controller Manager**: Monitora o estado do cluster e realiza ações corretivas para garantir que o estado atual do sistema corresponda ao estado desejado.
 
@@ -14,5 +14,3 @@
 - **Foco no Aplicativo**: Com a Azure gerenciando o control plane, você pode focar no desenvolvimento e operação de suas aplicações, sem se preocupar com a infraestrutura subjacente.
 
 Resumindo, o control plane é essencial para o funcionamento do Kubernetes, e no AKS a Azure garante que ele esteja sempre otimizado e seguro, permitindo que você se concentre no que importa mais: suas aplicações.
-
-Se precisar de mais alguma coisa, é só avisar!
