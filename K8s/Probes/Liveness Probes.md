@@ -1,4 +1,4 @@
-#kubernetes 
+#kubernetes #probes
 ## O que são Liveness Probes no Kubernetes?
 
 **Liveness Probes** são mecanismos no Kubernetes que monitoram a saúde dos containers em execução dentro de um pod. O objetivo principal é detectar quando um container não está funcionando como esperado e, se necessário, reiniciá-lo. [Isso ajuda a garantir que os containers estejam sempre operacionais e possam responder a solicitações](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)[1](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)[2](https://kubernetes.io/docs/concepts/configuration/liveness-readiness-startup-probes/).

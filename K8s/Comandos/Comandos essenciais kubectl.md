@@ -1,4 +1,4 @@
-#kubernetes
+#kubernetes #comandos 
 ### Comandos de Inicialização e Configuração:
 
 - **`kubectl version`**: Verifica a versão do `kubectl` e do servidor Kubernetes.

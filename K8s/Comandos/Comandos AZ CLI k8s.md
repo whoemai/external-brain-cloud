@@ -1,4 +1,4 @@
-#kubernetes 
+#kubernetes #comandos
 
 1. **Criar um cluster AKS:**
    ```bash
