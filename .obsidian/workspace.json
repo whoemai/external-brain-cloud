@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Portas TCP e UDP"
             }
+          },
+          {
+            "id": "2eca25f4444e6ca4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ca097556a27e672c",
+  "active": "2eca25f4444e6ca4",
   "lastOpenFiles": [
     "K8s/Control Plane/Portas TCP e UDP.md",
     "K8s/Control Plane/Control Plane.md",
