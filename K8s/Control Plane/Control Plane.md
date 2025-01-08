@@ -1,4 +1,4 @@
-#kubernetes 
+#kubernetes #control-plane 
 ### Control Plane no Kubernetes (K8s)
 
 **O que é:**

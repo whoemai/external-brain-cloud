@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Nodes/Node Worker.md",
+                "file": "K8s/Control Plane/Portas TCP e UDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Node Worker"
+              "title": "Portas TCP e UDP"
             }
           }
         ],
@@ -193,12 +193,13 @@
   },
   "active": "f68dab8174b93974",
   "lastOpenFiles": [
+    "K8s/Control Plane/Control Plane.md",
+    "K8s/Control Plane/Portas TCP e UDP.md",
+    "K8s/Nodes/Node Worker.md",
     "K8s/Probes/Readiness Probes.md",
     "K8s/Probes/Liveness Probes.md",
     "K8s/Comandos/Comandos essenciais kubectl.md",
     "K8s/Comandos/Comandos AZ CLI k8s.md",
-    "K8s/Nodes/Node Worker.md",
-    "K8s/Control Plane/Control Plane.md",
     "K8s/Testes/Dashboard minikube.md",
     "K8s/Storage/Volumes/Volumes no AKS",
     "Cloud/K8s/Storage/Volumes/Sem título.canvas",
@@ -231,7 +232,6 @@
     "K8s/StatefulSet/StatefulSet.md",
     "K8s/Projeto/Spaiglass.jpg",
     "K8s/Projeto/Projeto Alura.md",
-    "K8s/Services/Service - SVC.md",
     "Imagens/Pasted image 20241023122251.png",
     "Imagens/Pasted image 20241023122637.png",
     "Imagens/Pasted image 20241025130210.png",
