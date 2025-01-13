@@ -1,4 +1,4 @@
-#kubernetes 
+#kubernetes #Deployment
 
 ![[Pasted image 20241104163133.png]]
 Um **Deployment** no Kubernetes é um recurso de alto nível que gerencia a implantação e a atualização de aplicativos contêinerizados. Ele permite definir o estado desejado de um conjunto de pods e garante que esse estado seja mantido ao longo do tempo.
