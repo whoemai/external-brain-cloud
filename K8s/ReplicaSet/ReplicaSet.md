@@ -1,4 +1,4 @@
-#kubernetes 
+#kubernetes #ReplicaSet
 
 Um **ReplicaSet** no Kubernetes é um controlador que garante que um número especificado de réplicas de um pod esteja sempre em execução. Ele é usado principalmente para garantir a alta disponibilidade e a escalabilidade horizontal dos aplicativos.
 
