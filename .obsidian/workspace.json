@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Comandos/Comandos essenciais kubectl.md",
+                "file": "K8s/Probes/Probes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos essenciais kubectl"
+              "title": "Probes"
             }
           }
         ],
@@ -179,9 +179,11 @@
   },
   "active": "2eca25f4444e6ca4",
   "lastOpenFiles": [
+    "K8s/HPA/HPA.md",
+    "K8s/Probes/Probes.md",
+    "K8s/Comandos/Comandos essenciais kubectl.md",
     "K8s/ReplicaSet/DemonSet.md",
     "K8s/ReplicaSet/ReplicaSet.md",
-    "K8s/Comandos/Comandos essenciais kubectl.md",
     "K8s/Comandos/Comandos AZ CLI k8s.md",
     "K8s/Deployments/RollingUpdate.md",
     "K8s/Deployments/Rollout.md",
@@ -215,8 +217,6 @@
     "Cloud/Cloud computing/Integração Contínua, pipelines e docker.md",
     "Cloud/Cloud computing/Homologação vs Desenvolvimento.md",
     "Cloud/Linux/chown.md",
-    "Cloud/Linux/Notação octal para permissões.md",
-    "Cloud/Linux/Tornando um Arquivo Executável.md",
     "K8s/Projeto/Spaiglass.jpg",
     "Imagens/Pasted image 20241023122251.png",
     "Imagens/Pasted image 20241023122637.png",
