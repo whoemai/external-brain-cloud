@@ -1,4 +1,4 @@
-#kubernetes 
+#kubernetes #Cloud 
 
 ![[Pasted image 20241106160847.png]]
 ### Passos para usar Persistent Volumes com Azure Disks no AKS
