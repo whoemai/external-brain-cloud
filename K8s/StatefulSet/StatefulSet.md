@@ -1,4 +1,4 @@
-#kubernetes #statefullset 
+#kubernetes #statefulset 
 
 ![[Pasted image 20241107151700.png]]
 ## O que é um StatefulSet no Kubernetes?

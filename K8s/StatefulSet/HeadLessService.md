@@ -1,4 +1,4 @@
-#kubernetes #statefullset 
+#kubernetes #statefulset 
 
 Um HeadlessService é um tipo especial de Service no Kubernetes que não possui um endereço IP único atribuído a ele. Isso é conseguido configurando o campo `clusterIP` como `None`. Em vez de realizar o balanceamento de carga e fornecer um único ponto de entrada para os clientes, o HeadlessService permite que os clientes se conectem diretamente aos pods individuais.
 
