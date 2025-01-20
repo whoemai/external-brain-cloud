@@ -165,8 +165,8 @@
   "active": "d73c7e3b08036f6c",
   "lastOpenFiles": [
     "K8s/Secret/Secret.md",
-    "K8s/Secret/Criando um Secret para armazenar credenciais Docker.md",
     "K8s/Secret/Secret e SecretProviderClass.md",
+    "K8s/Secret/Criando um Secret para armazenar credenciais Docker.md",
     "K8s/StatefulSet/StatefulSet.md",
     "K8s/Services/Service - SVC.md",
     "K8s/StatefulSet/HeadLessService.md",
