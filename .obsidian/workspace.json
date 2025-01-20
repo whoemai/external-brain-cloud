@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Secret/Secret.md",
+                "file": "K8s/Secret/Criando um Secret para armazenar credenciais Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secret"
+              "title": "Criando um Secret para armazenar credenciais Docker"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "d73c7e3b08036f6c",
   "lastOpenFiles": [
-    "K8s/Secret/Secret e SecretProviderClass.md",
     "K8s/Secret/Secret.md",
+    "K8s/Secret/Criando um Secret para armazenar credenciais Docker.md",
+    "K8s/Secret/Secret e SecretProviderClass.md",
     "K8s/StatefulSet/StatefulSet.md",
     "K8s/Services/Service - SVC.md",
     "K8s/StatefulSet/HeadLessService.md",
@@ -190,7 +191,6 @@
     "K8s/Deployments/Deployments.md",
     "K8s/Nodes/Node Worker.md",
     "K8s/Control Plane/Control Plane.md",
-    "K8s/Testes/Dashboard minikube.md",
     "K8s/Storage/Volumes/Volumes no AKS",
     "Cloud/K8s/Storage/Volumes/Sem título.canvas",
     "K8s/Storage/Volumes/Persistent Volumes (PV)",
