@@ -1,4 +1,4 @@
-#kubernetes 
+#kubernetes #secret 
 
 No Kubernetes, um `Secret` e um `SecretProviderClass` servem para propósitos diferentes, embora ambos sejam utilizados para gerenciar segredos (como senhas, tokens e chaves). Aqui está um resumo das diferenças:
 
