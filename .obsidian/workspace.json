@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Secret/Criando um Secret TLS.md",
+                "file": "K8s/ReplicaSet/DemonSet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criando um Secret TLS"
+              "title": "DemonSet"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#statefullset",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,10 +162,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d73c7e3b08036f6c",
+  "active": "e7ac8523097fea27",
   "lastOpenFiles": [
-    "K8s/Secret/Criando um Secret para armazenar credenciais Docker.md",
     "K8s/Secret/Criando um Secret TLS.md",
+    "K8s/Secret/Criando um Secret para armazenar credenciais Docker.md",
     "K8s/Secret/Secret.md",
     "K8s/Secret/Secret e SecretProviderClass.md",
     "K8s/StatefulSet/StatefulSet.md",
