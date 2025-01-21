@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/ReplicaSet/DemonSet.md",
+                "file": "K8s/Services/CNI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DemonSet"
+              "title": "CNI"
             }
           }
         ]
@@ -162,14 +162,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e7ac8523097fea27",
+  "active": "d73c7e3b08036f6c",
   "lastOpenFiles": [
+    "K8s/Services/Service - SVC.md",
+    "K8s/Services/CNI.md",
+    "K8s/ReplicaSet/DemonSet.md",
     "K8s/Secret/Criando um Secret TLS.md",
     "K8s/Secret/Criando um Secret para armazenar credenciais Docker.md",
     "K8s/Secret/Secret.md",
     "K8s/Secret/Secret e SecretProviderClass.md",
     "K8s/StatefulSet/StatefulSet.md",
-    "K8s/Services/Service - SVC.md",
     "K8s/StatefulSet/HeadLessService.md",
     "K8s/Ingress Controller/Ingress Controller.md",
     "K8s/Storage/Volumes/Volumes no AKS/Volumes - PV AKS.md",
@@ -184,13 +186,11 @@
     "K8s/Probes/Probes.md",
     "K8s/Probes/Liveness Probes.md",
     "K8s/HPA/HPA.md",
-    "K8s/ReplicaSet/DemonSet.md",
     "K8s/ReplicaSet/ReplicaSet.md",
     "K8s/Deployments/RollingUpdate.md",
     "K8s/Deployments/Rollout.md",
     "K8s/Deployments/Recreate.md",
     "K8s/Deployments/Deployments.md",
-    "K8s/Nodes/Node Worker.md",
     "K8s/Storage/Volumes/Volumes no AKS",
     "Cloud/K8s/Storage/Volumes/Sem título.canvas",
     "K8s/Storage/Volumes/Persistent Volumes (PV)",
