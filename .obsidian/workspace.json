@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Comandos/Comandos essenciais kubectl.md",
+                "file": "K8s/Ingress Controller/Ingress Controller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos essenciais kubectl"
+              "title": "Ingress Controller"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "d73c7e3b08036f6c",
   "lastOpenFiles": [
+    "K8s/Comandos/Comandos essenciais kubectl.md",
     "K8s/Ingress Controller/Ingress Controller.md",
     "K8s/Services/CNI.md",
     "K8s/Services/Service - SVC.md",
@@ -178,7 +179,6 @@
     "K8s/Control Plane/Portas TCP e UDP.md",
     "K8s/Secret",
     "K8s/Storage/Volumes/Persistent Volumes (PV)/Volumes - PV.md",
-    "K8s/Comandos/Comandos essenciais kubectl.md",
     "K8s/Comandos/Comandos AZ CLI k8s.md",
     "K8s/Storage/Storage Classes/Storage Classes.md",
     "K8s/Probes/Startup Probe.md",
