@@ -15,5 +15,3 @@
 
 ### Documentação Oficial:
 Para mais detalhes, você pode consultar a [documentação oficial do Kubernetes sobre annotations](https://kubernetes.io/docs/concepts/overview/working-with-objects/annotations/).
-
-Espero que isso ajude! Se tiver mais perguntas ou precisar de mais detalhes, estou aqui para ajudar.
