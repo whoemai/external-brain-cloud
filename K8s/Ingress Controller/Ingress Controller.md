@@ -1,4 +1,4 @@
-#kubernetes 
+#kubernetes #ingress 
 
 ## **Por que eu vou querer ter um Ingress Controller?**
 
