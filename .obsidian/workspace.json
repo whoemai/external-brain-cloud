@@ -163,8 +163,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f1b2c28fd861a98",
+  "active": "e7ac8523097fea27",
   "lastOpenFiles": [
+    "K8s/Healm",
     "Linux/chown.md",
     "Linux/Guia rápido de comandos Linux.md",
     "Linux/Notação octal para permissões.md",
@@ -193,7 +194,6 @@
     "K8s/Storage/Volumes/Persistent Volumes (PV)/Volumes - PV.md",
     "K8s/Storage/Storage Classes/Storage Classes.md",
     "K8s/Probes/Readiness Probes.md",
-    "K8s/Probes/Probes.md",
     "K8s/Storage/Volumes/Volumes no AKS",
     "Cloud/K8s/Storage/Volumes/Sem título.canvas",
     "K8s/Storage/Volumes/Persistent Volumes (PV)",
