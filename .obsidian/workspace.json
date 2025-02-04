@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/chown.md",
+                "file": "K8s/Comandos/Comandos essenciais kubectl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chown"
+              "title": "Comandos essenciais kubectl"
             }
           }
         ]
@@ -163,12 +163,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e7ac8523097fea27",
+  "active": "0f1b2c28fd861a98",
   "lastOpenFiles": [
+    "Linux/chown.md",
     "Linux/Guia rápido de comandos Linux.md",
     "Linux/Notação octal para permissões.md",
     "Linux/Tornando um Arquivo Executável.md",
-    "Linux/chown.md",
     "K8s/Ingress Controller/Ingress Controller.md",
     "K8s/Ingress Controller/Labels.md",
     "K8s/Ingress Controller/Annotations.md",
