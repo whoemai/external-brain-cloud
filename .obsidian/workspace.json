@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Ingress Controller/Ingress Controller.md",
+                "file": "Linux/chown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ingress Controller"
+              "title": "chown"
             }
           }
         ]
@@ -163,11 +163,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0f1b2c28fd861a98",
+  "active": "e7ac8523097fea27",
   "lastOpenFiles": [
+    "Linux/Guia rápido de comandos Linux.md",
+    "Linux/Notação octal para permissões.md",
+    "Linux/Tornando um Arquivo Executável.md",
+    "Linux/chown.md",
+    "K8s/Ingress Controller/Ingress Controller.md",
     "K8s/Ingress Controller/Labels.md",
     "K8s/Ingress Controller/Annotations.md",
-    "K8s/Ingress Controller/Ingress Controller.md",
     "K8s/Comandos/Comandos essenciais kubectl.md",
     "K8s/Comandos/Azure/Comandos AZ CLI k8s.md",
     "K8s/Comandos/Azure",
@@ -190,9 +194,6 @@
     "K8s/Storage/Storage Classes/Storage Classes.md",
     "K8s/Probes/Readiness Probes.md",
     "K8s/Probes/Probes.md",
-    "K8s/Probes/Liveness Probes.md",
-    "K8s/HPA/HPA.md",
-    "K8s/ReplicaSet/ReplicaSet.md",
     "K8s/Storage/Volumes/Volumes no AKS",
     "Cloud/K8s/Storage/Volumes/Sem título.canvas",
     "K8s/Storage/Volumes/Persistent Volumes (PV)",
