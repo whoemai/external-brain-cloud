@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Helm/O que é o Helm.md",
+                "file": "K8s/Helm/O que é um Chart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que é o Helm"
+              "title": "O que é um Chart"
             }
           }
         ]
@@ -165,10 +165,10 @@
   },
   "active": "0f1b2c28fd861a98",
   "lastOpenFiles": [
+    "K8s/Helm/O que é o Helm.md",
     "K8s/Ingress Controller/Ingress com TLS, Labels, Annotations e o Cert-manager/Cert-Manager.md",
     "K8s/Helm/O que é um Chart.md",
     "K8s/ReplicaSet/DemonSet.md",
-    "K8s/Helm/O que é o Helm.md",
     "K8s/Comandos/Comandos essenciais kubectl.md",
     "K8s/Helm",
     "Linux/chown.md",
