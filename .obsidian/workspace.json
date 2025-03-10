@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/EKS/EKS.md",
-                "mode": "preview",
+                "file": "K8s/EKS/Kube-Prometheus.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EKS"
+              "title": "Kube-Prometheus"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "0f1b2c28fd861a98",
   "lastOpenFiles": [
-    "Linux/Guia rápido de comandos Linux.md",
     "K8s/EKS/EKS.md",
+    "K8s/EKS/Kube-Prometheus.md",
+    "Linux/Guia rápido de comandos Linux.md",
     "K8s/EKS",
     "K8s/Helm/O que é um Chart.md",
     "K8s/Helm/O que é o Helm.md",
@@ -195,7 +196,6 @@
     "K8s/Storage/Volumes/Volumes no AKS/Volumes - PV AKS.md",
     "K8s/Control Plane/Portas TCP e UDP.md",
     "K8s/Secret",
-    "K8s/Storage/Volumes/Persistent Volumes (PV)/Volumes - PV.md",
     "K8s/Storage/Volumes/Volumes no AKS",
     "Cloud/K8s/Storage/Volumes/Sem título.canvas",
     "K8s/Storage/Volumes/Persistent Volumes (PV)",
