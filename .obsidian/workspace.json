@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/EKS/Kube-Prometheus.md",
+                "file": "K8s/EKS/Grafana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kube-Prometheus"
+              "title": "Grafana"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "0f1b2c28fd861a98",
   "lastOpenFiles": [
-    "K8s/EKS/EKS.md",
     "K8s/EKS/Kube-Prometheus.md",
+    "K8s/EKS/Grafana.md",
+    "K8s/EKS/EKS.md",
     "Linux/Guia rápido de comandos Linux.md",
     "K8s/EKS",
     "K8s/Helm/O que é um Chart.md",
@@ -194,7 +195,6 @@
     "K8s/Secret/Secret e SecretProviderClass.md",
     "K8s/StatefulSet/HeadLessService.md",
     "K8s/Storage/Volumes/Volumes no AKS/Volumes - PV AKS.md",
-    "K8s/Control Plane/Portas TCP e UDP.md",
     "K8s/Secret",
     "K8s/Storage/Volumes/Volumes no AKS",
     "Cloud/K8s/Storage/Volumes/Sem título.canvas",
