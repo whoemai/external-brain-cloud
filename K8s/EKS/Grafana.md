@@ -1,3 +1,5 @@
+#kubernetes #monitoramento
+
 Agora que já temos o nosso Kube-Prometheus instalado, vamos acessar o nosso Grafana e verificar se está tudo funcionando corretamente. Para isso, vamos utilizar o `kubectl port-forward` para acessar o Grafana localmente. Para isso, basta executar o seguinte comando:
 
 ``kubectl port-forward -n monitoring svc/grafana 33000:3000``

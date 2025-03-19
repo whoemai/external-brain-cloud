@@ -1,3 +1,4 @@
+#kubernetes #monitoramento 
 
 Agora que já temos o nosso cluster EKS criado, vamos instalar o Kube-Prometheus. Para isso, basta executar o seguinte comando:
 
