@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/EKS/Grafana.md",
+                "file": "K8s/Monitoramento/Grafana.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/EKS/Grafana.md",
+                "file": "K8s/EKS/EKS AWS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grafana"
+              "title": "EKS AWS"
             }
           }
         ],
@@ -180,11 +180,13 @@
   },
   "active": "884770fe6450d30f",
   "lastOpenFiles": [
-    "K8s/EKS/Kube-Prometheus.md",
+    "K8s/Monitoramento",
+    "K8s/Monitoramento/Service Monitor.md",
+    "K8s/Monitoramento/Grafana.md",
+    "K8s/Monitoramento/Kube-Prometheus.md",
     "K8s/Helm/O que é o Helm.md",
     "K8s/Helm/O que é um Chart.md",
-    "K8s/EKS/EKS.md",
-    "K8s/EKS/Grafana.md",
+    "K8s/EKS/EKS AWS.md",
     "Linux/Guia rápido de comandos Linux.md",
     "K8s/EKS",
     "K8s/Ingress Controller/Ingress com TLS, Labels, Annotations e o Cert-manager/Cert-Manager.md",
@@ -208,8 +210,6 @@
     "K8s/Secret/Criando um Secret para armazenar credenciais Docker.md",
     "K8s/Secret/Secret.md",
     "K8s/Secret/Secret e SecretProviderClass.md",
-    "K8s/StatefulSet/HeadLessService.md",
-    "K8s/Storage/Volumes/Volumes no AKS/Volumes - PV AKS.md",
     "K8s/Secret",
     "K8s/Storage/Volumes/Volumes no AKS",
     "Cloud/K8s/Storage/Volumes/Sem título.canvas",
