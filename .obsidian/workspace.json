@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Monitoramento/Criando um ServiceMonitor.md",
+                "file": "K8s/Monitoramento/Pod Monitor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criando um ServiceMonitor"
+              "title": "Pod Monitor"
             }
           }
         ],
@@ -180,9 +180,10 @@
   },
   "active": "884770fe6450d30f",
   "lastOpenFiles": [
+    "K8s/Monitoramento/Criando um ServiceMonitor.md",
+    "K8s/Monitoramento/Pod Monitor.md",
     "K8s/Monitoramento/Service Monitor.md",
     "Linux/chown.md",
-    "K8s/Monitoramento/Criando um ServiceMonitor.md",
     "K8s/Ingress Controller/Ingress Controller.md",
     "K8s/Ingress Controller/Annotations.md",
     "K8s/Monitoramento/Kube-Prometheus.md",
@@ -210,7 +211,6 @@
     "K8s/Secret/Criando um Secret TLS.md",
     "K8s/Secret/Criando um Secret para armazenar credenciais Docker.md",
     "K8s/Secret/Secret.md",
-    "K8s/Secret/Secret e SecretProviderClass.md",
     "K8s/Secret",
     "K8s/Storage/Volumes/Volumes no AKS",
     "Cloud/K8s/Storage/Volumes/Sem título.canvas",
