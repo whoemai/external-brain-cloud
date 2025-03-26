@@ -1,5 +1,3 @@
-#### Criando um ServiceMonitor
-
 Bem, chegou a hora de criarmos o nosso primeiro ServiceMonitor, mas antes precisamos ter uma aplicação para monitorarmos. Para isso, vamos criar uma aplicação com Nginx e utilizar o exporter do Nginx para monitorarmos o nosso serviço.  
 Vamos criar ainda um outro pod para que possamos criar um teste de carga para a nossa aplicação, realizando assim uma carga de até 1000 requisições por segundo.
 
@@ -38,11 +36,15 @@ Agora vamos entender o que está acontecendo no nosso arquivo YAML.
 
 Vamos criar o nosso ConfigMap com o seguinte comando:
 
+```
 kubectl apply -f nginx-config.yaml
+```
 
 Após o nosso ConfigMap ser criado, vamos verificar se o nosso ConfigMap está rodando:
 
+```
 kubectl get configmaps
+```
 
 Para criar a nossa aplicação, vamos utilizar o seguinte arquivo YAML:
 
