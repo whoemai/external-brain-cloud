@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resource",
+                "query": "kind create",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "884770fe6450d30f",
+  "active": "e884f63b49cf6be0",
   "lastOpenFiles": [
     "K8s/Ingress Controller/Ingress Controller.md",
     "K8s/Ingress Controller/Labels.md",
