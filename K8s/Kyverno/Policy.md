@@ -78,7 +78,3 @@ kubectl apply -f pod.yaml
 ```
 
 Se a política estiver configurada corretamente, o Kyverno impedirá esse deployment, garantindo que **todos os containers** tenham limites de recursos definidos.
-
----
-
-Agora o texto está mais organizado e fácil de entender! 😊 Se precisar de mais ajustes, me avise! 🚀

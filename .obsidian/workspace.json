@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Kyverno/Policy.md",
+                "file": "K8s/Config Map/ConfigMap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Policy"
+              "title": "ConfigMap"
             }
           }
         ]
