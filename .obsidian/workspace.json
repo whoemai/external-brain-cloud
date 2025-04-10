@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/Config Map/ConfigMap.md",
+                "file": "K8s/Kyverno/Policy tipo Mutate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ConfigMap"
+              "title": "Policy tipo Mutate"
             }
           }
         ]
@@ -166,6 +166,8 @@
   "active": "cea48ee3758cec47",
   "lastOpenFiles": [
     "K8s/Kyverno/Policy.md",
+    "K8s/Kyverno/Policy tipo Mutate.md",
+    "K8s/Config Map/ConfigMap.md",
     "K8s/Helm/Repositório Helm.md",
     "K8s/Kyverno",
     "K8s/Monitoramento/Grafana.md",
@@ -194,8 +196,6 @@
     "K8s/Comandos/Azure/Comandos AZ CLI k8s.md",
     "K8s/Comandos/Azure",
     "K8s/StatefulSet/StatefulSet.md",
-    "K8s/Probes/Startup Probe.md",
-    "K8s/Services/CNI.md",
     "K8s/Ingress Controller/Ingress com TLS, Labels, Annotations e o Cert-manager",
     "K8s/Secret",
     "K8s/Storage/Volumes/Volumes no AKS",

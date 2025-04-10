@@ -1,4 +1,4 @@
-#kubernetes #kyverno
+#kubernetes #kyverno #policy
 # Criando a nossa primeira Policy no Kyverno
 
 O **Kyverno** permite que você **defina, gerencie e aplique políticas de forma declarativa**, garantindo que os clusters e suas cargas de trabalho estejam em conformidade com as regras e normas definidas.
