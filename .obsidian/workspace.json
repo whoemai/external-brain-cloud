@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "StatefulSet"
             }
+          },
+          {
+            "id": "07183aae07d96562",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +176,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cea48ee3758cec47",
+  "active": "07183aae07d96562",
   "lastOpenFiles": [
     "K8s/Kyverno/Policy tipo Mutate.md",
     "K8s/Kyverno/Policy.md",
