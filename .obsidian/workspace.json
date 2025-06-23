@@ -25,12 +25,14 @@
             "id": "07183aae07d96562",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "K8s/StatefulSet/StatefulSet.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "StatefulSet"
             }
           }
         ],
@@ -107,8 +109,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/K8s/SVC.md",
-                "collapseAll": false,
+                "file": "K8s/StatefulSet/StatefulSet.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para SVC"
+              "title": "Links inversos para StatefulSet"
             }
           },
           {
@@ -163,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 303.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -178,6 +180,7 @@
   },
   "active": "07183aae07d96562",
   "lastOpenFiles": [
+    "AWS/Criando uma secret key na AWS.md",
     "K8s/Kyverno/Policy tipo Mutate.md",
     "K8s/Kyverno/Policy.md",
     "K8s/Config Map/ConfigMap.md",
@@ -208,7 +211,6 @@
     "Linux/Tornando um Arquivo Executável.md",
     "K8s/Comandos/Azure/Comandos AZ CLI k8s.md",
     "K8s/Comandos/Azure",
-    "K8s/StatefulSet/StatefulSet.md",
     "K8s/Ingress Controller/Ingress com TLS, Labels, Annotations e o Cert-manager",
     "K8s/Secret",
     "K8s/Storage/Volumes/Volumes no AKS",
