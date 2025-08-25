@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8s/StatefulSet/StatefulSet.md",
+                "file": "Docker/Docker Scout e Trivy/Comandos essenciais de Docker Scout e Trivy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para StatefulSet"
+              "title": "Links inversos para Comandos essenciais de Docker Scout e Trivy"
             }
           },
           {
