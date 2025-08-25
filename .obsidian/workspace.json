@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker Scout e Trivy.md",
+                "file": "Docker/Docker Scout e Trivy/Comandos essenciais de Docker Scout e Trivy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Scout e Trivy"
+              "title": "Comandos essenciais de Docker Scout e Trivy"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "9a31d0f22bac1ecf",
   "lastOpenFiles": [
+    "Docker/Docker Scout e Trivy/Docker Scout e Trivy.md",
+    "Docker/Docker Scout e Trivy/Comandos essenciais de Docker Scout e Trivy.md",
+    "Docker/Docker Scout e Trivy",
     "Docker/Guia rápido de comandos Docker.md",
-    "Docker/Docker Scout e Trivy.md",
     "Docker/Docker comunicação através de redes.md",
     "Docker/A relação entre Docker e os arquivos go.yml no contexto de CI-CD..md",
     "Docker/Docker case/NTT/Situação de uso de docker-java.md",
@@ -194,7 +196,6 @@
     "K8s/EKS/EKS AWS.md",
     "K8s/Monitoramento",
     "K8s/Helm/O que é o Helm.md",
-    "K8s/Helm/O que é um Chart.md",
     "K8s/EKS",
     "K8s/Helm",
     "K8s/Comandos/Azure",
@@ -202,7 +203,6 @@
     "K8s/Secret",
     "K8s/Storage/Volumes/Volumes no AKS",
     "Cloud/K8s/Storage/Volumes/Sem título.canvas",
-    "K8s/Storage/Volumes/Persistent Volumes (PV)",
     "Cloud/Cloud computing/Load balancer.canvas",
     "K8s/Projeto/Spaiglass.jpg",
     "Imagens/Pasted image 20241023122251.png",
