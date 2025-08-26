@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Docker/Trivy/Trivy (Ferramenta de Segurança para Containers).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",

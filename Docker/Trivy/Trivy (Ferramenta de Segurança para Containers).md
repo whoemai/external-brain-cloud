@@ -107,20 +107,3 @@ bash
 bash
 
 `trivy fs --scanners vuln ./projeto trivy fs --scanners secret ./projeto`
-
----
-
-## Conclusão
-
-- O **Trivy é rápido, flexível e não intrusivo**.
-    
-- Entender seus relatórios e integrar com outras ferramentas é essencial.
-    
-- Boas práticas:
-    
-    - Escanear regularmente.
-        
-    - Salvar relatórios de auditoria.
-        
-    - Delegar prioridades de correção conforme os **CVEs críticos**.
-        
