@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "126415166abcb212",
+        "id": "952689789ee7b909",
         "type": "tabs",
         "children": [
           {
-            "id": "9a31d0f22bac1ecf",
+            "id": "021b5e075e5fe838",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Trivy/Trivy (Ferramenta de Segurança para Containers).md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Trivy (Ferramenta de Segurança para Containers)"
-            }
-          },
-          {
-            "id": "0dcb49a48d6eaff3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.9.12"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +160,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0dcb49a48d6eaff3",
+  "active": "e7ac8523097fea27",
   "lastOpenFiles": [
+    "Sem título.canvas",
     "Docker/Guia rápido de comandos Docker.md",
     "Docker/Docker comunicação através de redes.md",
     "Docker/A Importância do Usuário Não-Root no Docker.md",
@@ -208,7 +192,6 @@
     "K8s/Monitoramento/Pod Monitor.md",
     "K8s/Monitoramento/Criando um ServiceMonitor.md",
     "K8s/Monitoramento/Service Monitor.md",
-    "Linux/chown.md",
     "K8s/Monitoramento",
     "K8s/EKS",
     "K8s/Helm",
@@ -226,7 +209,6 @@
     "Imagens/Pasted image 20241104162542.png",
     "Imagens/Pasted image 20241104163133.png",
     "Imagens/Pasted image 20241104175739.png",
-    "Imagens/Pasted image 20241105161212.png",
-    "Sem título.canvas"
+    "Imagens/Pasted image 20241105161212.png"
   ]
 }
