@@ -11,10 +11,14 @@
             "id": "021b5e075e5fe838",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Guia rápido de comandos Docker.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Guia rápido de comandos Docker"
             }
           }
         ]
@@ -160,7 +164,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e7ac8523097fea27",
+  "active": "021b5e075e5fe838",
   "lastOpenFiles": [
     "Sem título.canvas",
     "Docker/Guia rápido de comandos Docker.md",
