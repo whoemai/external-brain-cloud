@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Tornando um Arquivo Executável"
             }
+          },
+          {
+            "id": "0b01f521c9b87da5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "021b5e075e5fe838",
+  "active": "0b01f521c9b87da5",
   "lastOpenFiles": [
     "Linux/Guia rápido de comandos Linux.md",
     "Linux/chown.md",
